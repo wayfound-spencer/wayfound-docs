@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Test your agents
 
 Testing AI agents is a critical step in the agent creation and deployment process. Thorough testing ensures that your agent performs as intended, provides accurate information, and delivers a positive user experience.

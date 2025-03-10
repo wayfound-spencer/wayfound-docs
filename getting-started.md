@@ -12,8 +12,8 @@ Before building your agent, carefully plan its purpose and requirements:
 ## Connecting your agents to Wayfound
 
 1. **Add your agent to the platform**: Navigate to [the-agents-page.md](agents/the-agents-page.md "mention"), click **Connect Agent**, and give it a name.
-2. **Create an API Key**. Users with admin status can create an API key on the [api.md](settings/api.md "mention") page.
-3. **Integrate your agent**: Add Wayfound to your external agent using the [wayfound-manager-sdk.md](wayfound-manager-sdk.md "mention")
+2. **Create an API Key**. Users with admin status can create an API key on the [api.md](api.md "mention") page.
+3. **Integrate your agent**: Add Wayfound to your external agent using the [connection.md](agents/connection.md "mention")
 
 ## Managing your agent
 
@@ -40,6 +40,6 @@ When using Wayfound's native tools, follow these steps:
 2. **Configure the agent**: Add relevant [knowledge.md](agents/knowledge.md "mention") and define the appropriate [behavior.md](agents/behavior.md "mention")
 3. **Set up actions**: Implement necessary [actions.md](agents/actions.md "mention") for your use case.
 4. **Configure directives**: Add or confirm that your organization's [alignment.md](manager/alignment.md "mention") align with your agent's context.
-5. **Customize the visuals**: Use the [design.md](agents/design.md "mention") page to polish the agent's appearance.
+5. **Customize the visuals**: Use the [design](agents/design/ "mention") page to polish the agent's appearance.
 6. **Test and refine**: Thoroughly [test-your-agents.md](agents/test-your-agents.md "mention") before publication.
 

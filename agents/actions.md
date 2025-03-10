@@ -2,6 +2,7 @@
 description: >-
   Actions allow you to create interactions between agents, give your agents
   access to tools, and connect them to 3rd party integrations.
+hidden: true
 ---
 
 # Actions

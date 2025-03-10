@@ -20,13 +20,14 @@
 ## Agents
 
 * [The Agents Page](agents/the-agents-page.md)
-* [Knowledge](agents/knowledge.md)
-* [Behavior](agents/behavior.md)
 * [Guidelines](agents/guidelines.md)
-* [Actions](agents/actions.md)
-* [Design](agents/design.md)
-* [Deploy](agents/deploy.md)
+* [Connection](agents/connection.md)
 * [Test your agents](agents/test-your-agents.md)
+* [Behavior](agents/behavior.md)
+* [Knowledge](agents/knowledge.md)
+* [Actions](agents/actions.md)
+* [Design](agents/design/README.md)
+  * [Deploy](agents/design/deploy.md)
 
 ## Sessions
 
@@ -45,8 +46,7 @@
 * [Integrations](settings/integrations/README.md)
   * [HubSpot Integration](settings/integrations/hubspot-integration.md)
 * [Actions](settings/actions.md)
-* [API](settings/api.md)
 
 ***
 
-* [Wayfound Manager SDK](wayfound-manager-sdk.md)
+* [API](api.md)

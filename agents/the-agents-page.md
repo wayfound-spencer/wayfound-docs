@@ -14,7 +14,7 @@ In the agents table, the **Actions** column contains a menu of actions that can 
 
 ### Onboard an existing agent
 
-Wayfound lets you connect existing external agents to the platform. This includes those built on popular frameworks like LangChain. Adding an agent to Wayfound allows you to track, monitor, and manage it using the Wayfound platform. To connect an agent, you can use the [Wayfound Manager SDK](../wayfound-manager-sdk.md) to import recorded conversations from your external agent.
+Wayfound lets you connect existing external agents to the platform. This includes those built on popular frameworks like LangChain. Adding an agent to Wayfound allows you to track, monitor, and manage it using the Wayfound platform. To connect an agent, you can use the [Wayfound Manager SDK](connection.md) to import recorded conversations from your external agent.
 
 To onboard an existing agent:
 
@@ -27,7 +27,7 @@ To onboard an existing agent:
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfeIhEExnXhY9x_CpH_eWHwPquMulSb2gCUJ-PSumMLIUF3yznVW7_rxMvxmVrffrfW8Tnnxdm3F71fUmbkOiHQvERz788bXpkzLdMSwsb4D9QE9oCVcS0LfTs5J60cwUVlhyu?key=lWy_jH-CvOuJ0J4B3B1QfFgM" alt=""><figcaption></figcaption></figure>
 
-The [wayfound-manager-sdk.md](../wayfound-manager-sdk.md "mention") allows you to connect your external agent to Wayfound using python. Once connected, the agent will send transcripts to Wayfound so they can be analyzed by the AI Manager. Connecting via SDK requires an **Agent ID** and an **API key**.
+The [connection.md](connection.md "mention") allows you to connect your external agent to Wayfound using python. Once connected, the agent will send transcripts to Wayfound so they can be analyzed by the AI Manager. Connecting via SDK requires an **Agent ID** and an **API key**.
 
 The **Agent ID** is displayed on the connected agent page (see above).
 
@@ -40,3 +40,5 @@ If you do not have an agent already built using a third-party framework, you can
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-11 at 2.01.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Clicking **Create Agent** brings you to your new agent's [knowledge.md](knowledge.md "mention") page, where you can continue setting up the agent.
+
+For more documentation on building agents in wayfound, [contact us](https://www.wayfound.ai/get-started).

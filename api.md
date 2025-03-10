@@ -1,6 +1,8 @@
 # API
 
-Wayfound offers APIs for interfacing with other systems. Currently, it provides APIs for creating agents, getting information about agents, managing chat recordings, and running tests. You can generate an API key on the **API tab** in the **Settings** page. Access to this page requires admin permissions on the Wayfound platform.
+Wayfound offers APIs to connect your agents to the platform. Current APIs allow you to collect information about agents, manage chat recordings, and run tests.
+
+You can generate an API key on the **API tab** in the **Settings** page. Access to this page requires admin permissions on the Wayfound platform.
 
 Currently avalaible APIs include the following:
 
@@ -21,8 +23,4 @@ Currently avalaible APIs include the following:
 **Send Messages to Test Run:** Sends messages to the specified Test Run. The messages are processed by the Agent and the Agent response is included in the messages array of the response.
 
 [Learn more about implementing Wayfound's APIs here](https://wayfound-api.readme.io/reference/get-agents)
-
-At present, Wayfound APIs do not support image, video, or voice modalities. You can add files such as images, videos, or pdfs to an agent's knowledge base by uploading it on the agent's  [knowledge.md](../agents/knowledge.md "mention") page.
-
-Full API access and API support is available to Enterprise customers.
 

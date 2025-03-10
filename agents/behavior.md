@@ -2,6 +2,7 @@
 description: >-
   Behaviors let you control your agent's interactions with users with intuitive,
   natural-language prompts.
+hidden: true
 ---
 
 # Behavior

@@ -2,6 +2,7 @@
 description: >-
   Knowledge allows you to add and edit the content used by the agent during its
   interactions.
+hidden: true
 ---
 
 # Knowledge
