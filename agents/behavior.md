@@ -41,7 +41,7 @@ To add more behaviors, click the **+ Add Behavior** button below the list of cur
 
 <img src="../.gitbook/assets/Screenshot 2024-09-19 at 10.02.22 AM.png" alt="" data-size="line">**Custom Command:** Create unique behaviors tailored to your agent's specific purpose or domain.
 
-As always, we encourage you to [test-your-agents.md](test-your-agents.md "mention") when updating and adding behaviors. Wayfound makes this easy by offering a chat interface on the right-hand side of the screen. After you update or add behaviors, you can click <img src="../.gitbook/assets/Screenshot 2024-09-18 at 2.42.38 PM.png" alt="" data-size="line"> reset at the top of the chat window to update the agent and test it. Testing your agents is a critical step to take before publishinging them. Over time, we also recommend adding behaviors suggested by the Wayfound [suggestions.md](../sessions/suggestions.md "mention") tool.
+As always, we encourage you to [test-your-agents.md](test-your-agents.md "mention") when updating and adding behaviors. Wayfound makes this easy by offering a chat interface on the right-hand side of the screen. After you update or add behaviors, you can click <img src="../.gitbook/assets/Screenshot 2024-09-18 at 2.42.38 PM.png" alt="" data-size="line"> reset at the top of the chat window to update the agent and test it. Testing your agents is a critical step to take before publishing them. Over time, we also recommend adding behaviors suggested by the Wayfound [suggestions.md](../sessions/suggestions.md "mention") tool.
 
 Visit [improving-agent-performance.md](../improving-agent-performance.md "mention") for tips on writing good behaviors.
 
