@@ -8,7 +8,7 @@ Wayfound provides three complementary tools for shaping and enhancing your AI ag
 
 1. [**Behaviors**](agents/behavior.md) serve as specific instructions for individual agents, controlling how they interpret and respond to user interactions. Behaviors define exactly how an agent should handle specific situations, from breaking down complex explanations into steps to knowing when to escalate issues.
 2. [**Global Directives**](manager/alignment.md) establish organization-wide principles that align all agents with your company’s mission and values. These directives create consistency across your AI network, ensuring that every agent interaction reflects your brand voice and organizational approach to problem-solving.
-3. [**Knowledge**](agents/knowledge.md) provides the factual foundation that agents can reference, determining not just what information they can share, but how precisely they can assist users. Comprehensive knowledge enables agents to provide accurate, context-appropriate responses.
+3. [**Knowledge**](knowledge.md) provides the factual foundation that agents can reference, determining not just what information they can share, but how precisely they can assist users. Comprehensive knowledge enables agents to provide accurate, context-appropriate responses.
 
 \> These tools work in a hierarchical relationship: Global Directives establish your organizational foundation, Behaviors implement these principles through specific agent actions, and Knowledge provides the substance that makes these interactions meaningful and accurate. When modifying agent behavior, carefully consider which tool best suits your goal, and ensure your controls work together rather than sending conflicting signals.
 

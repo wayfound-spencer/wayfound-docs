@@ -16,18 +16,18 @@ The Deploy tab is only available for agents built on Wayfound.
 Before an agent is deployed for the first time, the deploy page will ask to publish your agent. When you're ready, click **Publish**.
 
 {% hint style="warning" %}
-Only publish your agent when it's ready to interact with customers. We recommend that you thoroughly [test-your-agents.md](../test-your-agents.md "mention") before deploying it
+Only publish your agent when it's ready to interact with customers. We recommend that you thoroughly [test-your-agents.md](agents/test-your-agents.md "mention") before deploying it
 {% endhint %}
 
 
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-16 at 1.13.19 PM.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-09-16 at 1.13.19 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Once published, the page will display four deployment options.
 
 
 
-<div data-full-width="true"><figure><img src="../../.gitbook/assets/Screenshot 2024-09-16 at 1.06.37 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2024-09-16 at 1.06.37 PM.png" alt=""><figcaption></figcaption></figure></div>
 
 Wayfound currently offers the following deployment options:
 

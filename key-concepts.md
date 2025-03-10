@@ -24,7 +24,7 @@ The AI Manager continuously evaluates agent performance through user satisfactio
 
 ### Knowledge
 
-Knowledge forms an agent's foundational capabilities and identity, encompassing the information it can reference during interactions with users, other agents, and external systems. Learn more in the [knowledge.md](agents/knowledge.md "mention") page.
+Knowledge forms an agent's foundational capabilities and identity, encompassing the information it can reference during interactions with users, other agents, and external systems. Learn more in the [knowledge.md](knowledge.md "mention") page.
 
 ### Behavior
 

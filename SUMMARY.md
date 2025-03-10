@@ -20,14 +20,18 @@
 ## Agents
 
 * [The Agents Page](agents/the-agents-page.md)
+* [Definition](agents/definition.md)
 * [Guidelines](agents/guidelines.md)
 * [Connection](agents/connection.md)
 * [Test your agents](agents/test-your-agents.md)
 * [Behavior](agents/behavior.md)
-* [Knowledge](agents/knowledge.md)
 * [Actions](agents/actions.md)
-* [Design](agents/design/README.md)
-  * [Deploy](agents/design/deploy.md)
+* [Design](agents/design.md)
+
+***
+
+* [Knowledge](knowledge.md)
+* [Deploy](deploy.md)
 
 ## Sessions
 

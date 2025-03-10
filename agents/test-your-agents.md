@@ -14,7 +14,7 @@ Wayfound provides multiple tools for testing and improving agents. When creating
 
 This enables the iterative testing of AI agents. For example:
 
-* In the [knowledge.md](knowledge.md "mention") tab, you can assess whether the agent has all required knowledge for the task at hand and fill in any possible gaps by adding content.&#x20;
+* In the [knowledge.md](../knowledge.md "mention") tab, you can assess whether the agent has all required knowledge for the task at hand and fill in any possible gaps by adding content.&#x20;
 * In the [behavior.md](behavior.md "mention") tab, you can confirm whether the agent's actions, style, and voice corresponds with its intended purpose and add or adjust behaviors as needed.
 * In the [actions.md](actions.md "mention") tab, you can check whether the agent collaborates with other agents or employs tools and integrations in the correct circumstances.
 
