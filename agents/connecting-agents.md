@@ -1,8 +1,8 @@
-# Connection
+# Connecting Agents
 
 The Wayfound Manager SDK provides a simple interface for connecting agents to Wayfound. It allows developers to seamlessly integrate Wayfound's AI agent management capabilities with their third-party agents using Python or JavaScript.
 
-The Connection page provides instructions and information for connecting your third-party agent to Wayfound. It includes the agent's unique ID, which is required for use of the Wayfound SDK.
+The **Connection** page provides instructions and information for connecting your third-party agent to Wayfound. It includes the agent's unique ID, which is required for use of the Wayfound SDK.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 10.50.02 AM.png" alt=""><figcaption></figcaption></figure>
 

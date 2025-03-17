@@ -2,7 +2,7 @@
 
 Those with admin level permissions can access the Users page in the settings menu. This page displays a table of all users and their statuses. The page also allows you to manage users and their roles in your organization.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Roles
 
@@ -14,7 +14,7 @@ There are currently two roles on the platform:
 
 ### Adding Users
 
-You can invite new users by clicking <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> at the top-right corner of the page. Enter the new user's email address in the pop-up window to send them an invitation to join the platform. Check the **Admin** box to give them the admin role. When left unchecked, the user will join the organization as a "user."
+You can invite new users by clicking <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> at the top-right corner of the page. Enter the new user's email address in the pop-up window to send them an invitation to join the platform. Check the **Admin** box to give them the admin role. When left unchecked, the user will join the organization as a "user."
 
 ### Changing a user's status
 

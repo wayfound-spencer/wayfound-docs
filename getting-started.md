@@ -13,7 +13,7 @@ Before building your agent, carefully plan its purpose and requirements:
 
 1. **Add your agent to the platform**: Navigate to [the-agents-page.md](agents/the-agents-page.md "mention"), click **Connect Agent**, and give it a name.
 2. **Create an API Key**. Users with admin status can create an API key on the [api.md](api.md "mention") page.
-3. **Integrate your agent**: Add Wayfound to your external agent using the [connection.md](agents/connection.md "mention")
+3. **Integrate your agent**: Add Wayfound to your external agent using the [connecting-agents.md](agents/connecting-agents.md "mention")
 
 ## Managing your agent
 

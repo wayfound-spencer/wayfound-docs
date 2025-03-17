@@ -14,7 +14,7 @@ In the agents table, the **Actions** column contains a menu of actions that can 
 
 ### Onboard an existing agent
 
-Wayfound lets you connect existing external agents to the platform. This includes those built on popular frameworks like LangChain. Adding an agent to Wayfound allows you to track, monitor, and manage it using the Wayfound platform. To connect an agent, you can use the [Wayfound Manager SDK](connection.md) to import recorded conversations from your external agent.
+Wayfound lets you connect existing external agents to the platform. This includes those built on popular frameworks like LangChain. Adding an agent to Wayfound allows you to track, monitor, and manage it using the Wayfound platform. To connect an agent, you can use the [Wayfound Manager SDK](connecting-agents.md) to import recorded conversations from your external agent.
 
 To onboard an existing agent:
 
