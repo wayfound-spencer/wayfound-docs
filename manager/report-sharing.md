@@ -32,15 +32,15 @@ Once the feature is enabled, the platform displays share <img src="../.gitbook/a
 
 Clicking the button opens a pop-up for generating a share link:
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Wayfound allows you to protect the manager report with an optional password. To create a password, enter it in the **Password** field and click **Set Password**:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Once a share link is generated, you can disable sharing at any time by revisiting the Share Report window. Here, you can also remove the report's optional password if you created one:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Who can access shared reports?
 
