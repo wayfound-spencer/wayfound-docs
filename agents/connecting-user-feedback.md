@@ -1,6 +1,6 @@
 # Connecting User Feedback
 
-After connecting your agents to Wayfound, you can also track user feedback ratings. This allows Wayfound to generate satisfaction metrics in Performance reports. You can do so by adding a "user.rating" type to "messages":
+After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also track user feedback ratings. This allows Wayfound to generate satisfaction metrics in [performance.md](../manager/performance.md "mention") reports. You can do so by adding a "user.rating" type to "messages":
 
 ```python
 {
