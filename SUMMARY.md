@@ -16,6 +16,7 @@
 ***
 
 * [User Feedback](user-feedback.md)
+* [Agent Management Best Practices](agent-management-best-practices.md)
 
 ## Agents
 

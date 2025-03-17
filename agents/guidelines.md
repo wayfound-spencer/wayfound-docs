@@ -25,3 +25,15 @@ Wayfound allows you to set the importance of each guideline, giving you control 
 &#x20;<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.22.03 AM.png" alt="" data-size="line">**Needs Review:** These are guidelines that, while important to follow, do not require urgent remediation if breached. The AI Manager will collect all potential "Needs Review" guidelines violations and alert uses about them once per day.
 
 <img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.17.36 AM.png" alt="" data-size="line"> **Needs Attention:** These are guidelines that may require an immediate response if breached. The AI Manager will alert users about "Needs Attention" guidelines as soon as it identifies a violation.
+
+## Optimizing Your Guidelines
+
+Guidelines are most effective when they:
+
+**Focus on Specifics:** They focus on specific, measurable behaviors.
+
+**Differentiate Severity:** They clearly differentiate between critical (needs attention) and important (needs review) issues.
+
+**Provide Context:** They provide context about when exceptions are acceptable.
+
+**Align with Priorities:** They align with your business priorities and user needs.
