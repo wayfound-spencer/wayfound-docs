@@ -12,7 +12,7 @@ Wayfound is organized into five tabs:
 
 [**Manager**](broken-reference) provides a global view of your network of Agents, near real-time Agent performance reviews, access to guidelines that apply across all Agents, and an interface for facilitating meetings between agents&#x20;
 
-[**Agents**](broken-reference) allows you to view, add, and update Agents
+[**Agents**](broken-reference) allows you to connect and view agents
 
 [**Sessions**](broken-reference) provides a record of Agent activity and suggestions for improving individual Agent performance
 

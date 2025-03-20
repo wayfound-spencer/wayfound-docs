@@ -8,7 +8,7 @@ description: >-
 
 ### Agents
 
-Wayfound supports specialized agents powered by the latest large language models. Agents are designed to accomplish specific, clearly defined tasks. They can interact with users through text, images, and video formats. They can communicate with other agents for help with answering specific questions, and they can take action or access information in third-party systems. Agents are end-to-end, meaning that they can both interact with users and perform simple workflows. You can connect existing agents built on platforms like LangChain or CrewAI, or create new agents directly in Wayfound.
+Wayfound supports specialized agents powered by the latest large language models. Agents are designed to accomplish specific, clearly defined tasks. They can interact with users through text, images, and video formats. They can communicate with other agents for help with answering specific questions, and they can take action or access information in third-party systems. Agents are end-to-end, meaning that they can both interact with users and perform simple workflows. You can connect existing agents built on platforms like LangChain or CrewAI.
 
 ### Agent Networks
 
@@ -21,14 +21,6 @@ The AI Manager provides centralized oversight of your agent networks, offering n
 ### Performance
 
 The AI Manager continuously evaluates agent performance through user satisfaction metrics, knowledge gap analysis, behavior compliance monitoring, and tool utilization success rates. Learn more in the [performance.md](manager/performance.md "mention") page.
-
-### Knowledge
-
-Knowledge forms an agent's foundational capabilities and identity, encompassing the information it can reference during interactions with users, other agents, and external systems. Learn more in the [knowledge.md](knowledge.md "mention") page.
-
-### Behavior
-
-Behaviors define an agent's interaction patterns with users. As part of the Wayfound agent builder, they provide a modular approach to prompt engineering, allowing for isolated testing and iteration of prompt components. Find implementation details on the [behavior.md](agents/behavior.md "mention") page.
 
 ### Guidelines&#x20;
 

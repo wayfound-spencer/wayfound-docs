@@ -6,8 +6,8 @@ Before building your agent, carefully plan its purpose and requirements:
 
 1. **Define your use case**: Focus on specific, single-task applications. Keep the scope narrow and let other agents or humans handle different tasks in a larger network of intelligence.
 2. **Set clear objectives**: Identify the desired outcomes from agent interactions.
-3. **Plan capabilities**: Determine the knowledge, behavior, and tools your agent needs to complete the desired tasks and how to equip the agent with them. Consult [improving-agent-performance.md](improving-agent-performance.md "mention") for more tips.
-4. **Build your agent**: Use one of many available agent builders like LangChain. You can also build an agent on Wayfound (see below for instructions).
+3. **Plan capabilities**: Determine the knowledge, behavior, and tools your agent needs to complete the desired tasks and how to equip the agent with them.
+4. **Build your agent**: Use one of many available agent builders like LangChain to build your agent. Once your agent is built, you can connect it to Wayfound.
 
 ## Connecting your agents to Wayfound
 

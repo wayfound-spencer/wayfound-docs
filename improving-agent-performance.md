@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Improving Agent Performance
 
 Today's AI agents, including those built and managed on Wayfound, are powered by large language models. On one hand, these models take everyday natural language as inputs, enabling you to control their behavior without writing code. On the other hand, large language models are nondeterministic, meaning that they lack a one-to-one relationship between their inputs and outputs. Just like humans, every time you interact with a large language model, you can expect a slightly different outcome.

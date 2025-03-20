@@ -1,10 +1,10 @@
 # The Agents Page
 
-Wayfound allows you to create and manage a network of specialized agents. Each agent can perform a focused task, and agents can collaborate to accomplish more complex tasks. The Agents tab displays a list of all agents in your organization. It also allows you to build and configure new ones.
+Wayfound allows you to connect and manage a network of specialized agents. Each agent can perform a focused task, and agents can collaborate to accomplish more complex tasks. The Agents tab displays a list of all agents in your organization. It also allows you to connect and configure new ones.
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-12-03 at 2.24.51 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-03-19 at 9.57.23 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### View and manage current agents
 
@@ -22,13 +22,5 @@ To onboard an existing agent:
 2. A new menu will appear. Name the agent and explain its role and goal. This information will inform the AI manager's performance evaluation of this agent. Click **Connect**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 11.22.47 AM.png" alt=""><figcaption></figcaption></figure>
-
-### Create a new agent
-
-If you do not have an agent already built using a third-party framework, you can create a new one in Wayfound. To create a new agent, click <img src="../.gitbook/assets/Screenshot 2024-11-25 at 12.27.29 PM.png" alt="" data-size="line"> . This opens a new menu where you can name your agent and select between an OpenAI and Anthropic model to power the agent. Remember: the name you select for the agent is the name that users will see.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-11 at 2.01.15 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-Clicking **Create Agent** brings you to your new agent's [knowledge.md](../knowledge.md "mention") page, where you can continue setting up the agent.
 
 For more documentation on building agents in wayfound, [contact us](https://www.wayfound.ai/get-started).

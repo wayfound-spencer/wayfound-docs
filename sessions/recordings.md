@@ -6,7 +6,7 @@ description: >-
 
 # Recordings
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2024-12-03 at 2.13.20 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-03-19 at 9.59.35 PM.png" alt=""><figcaption></figcaption></figure></div>
 
 ### View Options
 
@@ -36,9 +36,7 @@ The table of chat recordings displayes columns of different data pertaining to e
 
 **Events:** Flags when the agent invoked an action in the recording
 
-**Email Collected:** Displays the user's email if it was obtained during the conversation
-
-**Calendar Request:** Displays whether a calendar event was scheduled
+**Visitor:** Displays the user's email, if connected, or the user's unique ID
 
 **Duration:** Length of the conversation
 
