@@ -12,6 +12,8 @@ Currently avalaible APIs include the following:
 
 **Create New Agent:** Create a new agent. The agent will be unpublished.
 
+**Update Agent:** Update an agent's name, role, goal, or guidelines
+
 **Create Completed Recording:** Create a recording after a complete agent session has concluded and all messages have been sent and received. Processing of the recording will occur immediately.
 
 **Create Active Recording:** Create an initial recording for an active and ongoing Agent session. This recording can be updated as more messages are sent and received. Processing of the recording will occur approximately 5 minutes after the last update to the recording.
