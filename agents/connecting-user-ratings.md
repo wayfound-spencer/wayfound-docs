@@ -1,4 +1,4 @@
-# Connecting User Feedback
+# Connecting User Ratings
 
 After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also track user feedback ratings. This allows Wayfound to generate satisfaction metrics in [performance.md](../manager/performance.md "mention") reports. You can do so by adding a "user.rating" type to "messages":
 
@@ -41,6 +41,6 @@ With this additional information, the feedback section in the transcript will di
 
 Examples of feedback with and without user comments are shown here:
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Note that multiple feedback entries can be included for the same conversation, and feedback can be submitted at any point during or after the interaction.
