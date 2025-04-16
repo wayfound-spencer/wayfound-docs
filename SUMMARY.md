@@ -52,6 +52,7 @@
 * [User Management](settings/user-management.md)
 * [Integrations](settings/integrations/README.md)
   * [HubSpot Integration](settings/integrations/hubspot-integration.md)
+  * [Salesforce Integration](settings/integrations/salesforce-integration.md)
 * [Actions](settings/actions.md)
 
 ***
