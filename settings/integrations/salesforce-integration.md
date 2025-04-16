@@ -35,7 +35,7 @@ Here, take the following actions:
 1. Turn on Agentforce
 2. Either create a **New Agent** or enable the **Agentforce (Default) Agent**
 
-After taking these actions, refresh Wayfound's agentforce settings page you will see a blue checkmark <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">next to **Enable Agents**.
+After taking these actions, refresh Wayfound's Agentforce settings page you will see a blue checkmark <img src="../../.gitbook/assets/image (23).png" alt="" data-size="line">next to **Enable Agents**.
 
 #### Enable Data Cloud
 
