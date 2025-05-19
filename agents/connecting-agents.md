@@ -1,10 +1,10 @@
 # Connecting Agents
 
-The Wayfound Manager SDK provides a simple interface for connecting agents to Wayfound. It allows developers to seamlessly integrate Wayfound's AI agent management capabilities with their third-party agents using Python or JavaScript.
+The Wayfound Manager SDK provides a simple interface for connecting agents to Wayfound. It allows developers to seamlessly integrate Wayfound's AI agent management capabilities with their third-party agents using Python, JavaScript or simple REST API endpoints directly.
 
 The **Connection** page provides instructions and information for connecting your third-party agent to Wayfound. It includes the agent's unique ID, which is required for use of the Wayfound SDK.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 10.50.02 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sdk connections.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -27,16 +27,32 @@ To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID.
 The SDK provides methods to record new messages, update existing recordings, and add details like user ratings and handoffs. For example:
 
 ```python
-from wayfound import Recording
+from wayfound import Session
 
-recording = Recording(wayfound_api_key="<API KEY>", agent_id="f9380cc1-19ff-43d1-b933-9faba7adcb58")
+wayfound_api_key = "<API KEY>"
+wayfound_agent_id = "<AGENT_ID>"
 
-# Record new messages
-messages = [
-    {"role": "assistant", "content": "Hello, how can I help you?"},
-    {"role": "user", "content": "I need assistance with my account"}
-]
-recording.record_messages(messages)
+wayfound_session = Session(wayfound_api_key=wayfound_api_key, agent_id=wayfound_agent_id)
+
+formatted_messages = []
+
+formatted_messages.append({
+    "timestamp": "2025-05-07T10:00:00Z",
+    "event_type": "assistant_message",
+    "attributes": {
+      "content": "Hello, how can I help you today?",
+    }
+  })
+
+formatted_messages.append({
+    "timestamp": "2025-05-07T10:00:04Z",
+    "event_type": "user_message",
+    "attributes": {
+      "content": "What's the current status of Project Alpha?"
+    }
+  })
+
+result = wayfound_session.complete_session(messages=formatted_messages)
 ```
 
 #### Connecting Agents with JavaScript:
@@ -52,34 +68,31 @@ To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID.
 The SDK provides methods to record new messages, update existing recordings, and add details like user ratings and handoffs. For example:
 
 ```javascript
-import { Recording } from 'wayfound';
+import { Session } from "wayfound";
 
-const recording = new Recording({
-  wayfoundApiKey: '<API KEY>',
-  agentId: 'f9380cc1-19ff-43d1-b933-9faba7adcb58'
-});
+const wayfoundApiKey = "<API KEY>";
+const agentId = "<AGENT_ID>";
 
-// Record new messages
+const session = new Session({ wayfoundApiKey, agentId });
+
 const messages = [
-  { role: 'assistant', content: 'Hello, how can I help you?' },
-  { role: 'user', content: 'I need assistance with my account' }
+  {
+    timestamp: "2025-05-07T10:00:00Z",
+    event_type: "assistant_message",
+    attributes: {
+      content: "Hello, how can I help you today?",
+    },
+  },
+  {
+    timestamp: "2025-05-07T10:00:10Z",
+    event_type: "user_message",
+    attributes: {
+      content: "What's the current status of Project Alpha?",
+    },
+  },
 ];
-recording.recordMessages(messages);
-```
 
-### LangChain Integration
-
-The Wayfound Manager SDK also supports recording messages directly from Langchain memory objects. This allows you to use Wayfound to monitor and manage agents built with LangChain. For example:
-
-```python
-from wayfound import Recording
-from langchain.memory import ConversationBufferMemory
-
-recording = Recording(wayfound_api_key="your_api_key", agent_id="your_agent_id")
-
-memory = ConversationBufferMemory(return_messages=True)
-# ... after some conversation with Langchain ...
-recording.record_messages_from_langchain_memory(memory)
+const response = await session.completeSession({ messages });
 ```
 
 ### Resources
