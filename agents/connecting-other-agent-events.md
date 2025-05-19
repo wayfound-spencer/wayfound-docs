@@ -1,6 +1,6 @@
 # Connecting other Agent Events
 
-In addition to [connecting-actions.md](connecting-actions.md "mention") and [connecting-user-ratings.md](connecting-user-ratings.md "mention") to your agents' session recordings in Wayfound, you can also connect other kinds of events under a general "event" message type. This could be any kind of data that is relevant to the agents' interactions with users. Some examples of this could be “user launches the bot” or “user clicks on a link”.
+In addition to [connecting-tool-calls.md](connecting-tool-calls.md "mention") and [connecting-user-ratings.md](connecting-user-ratings.md "mention") to your agents' session recordings in Wayfound, you can also connect other kinds of events under a general "event" message type. This could be any kind of data that is relevant to the agents' interactions with users. Some examples of this could be “user launches the bot” or “user clicks on a link”.
 
 The AI Manager can make sense of this additional data in the recording session when analyzing your agents' activity. To help the AI Manager make the most of this data, the "event" message type comes with a description field that can contain more context about this particular datapoint. To this end, the description should be consistent with your agents' [guidelines.md](guidelines.md "mention").&#x20;
 
