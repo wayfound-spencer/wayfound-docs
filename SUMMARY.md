@@ -26,7 +26,7 @@
 * [Connecting Agents](agents/connecting-agents.md)
 * [Connecting Tool Calls](agents/connecting-tool-calls.md)
 * [Connecting User Feedback](agents/connecting-user-feedback.md)
-* [Connecting other Events](agents/connecting-other-events.md)
+* [Connecting other Events](agents/connecting-other-agent-events.md)
 * [Open Telemetry Event Data](agents/open-telemetry-event-data.md)
 * [Test your agents](agents/test-your-agents.md)
 * [Behavior](agents/behavior.md)
