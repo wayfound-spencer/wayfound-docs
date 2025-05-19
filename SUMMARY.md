@@ -25,7 +25,7 @@
 * [Guidelines](agents/guidelines.md)
 * [Connecting Agents](agents/connecting-agents.md)
 * [Connecting Tool Calls](agents/connecting-tool-calls.md)
-* [Connecting User Ratings](agents/connecting-user-ratings.md)
+* [Connecting User Feedback](agents/connecting-user-feedback.md)
 * [Connecting other Agent Events](agents/connecting-other-agent-events.md)
 * [Test your agents](agents/test-your-agents.md)
 * [Behavior](agents/behavior.md)
