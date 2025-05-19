@@ -6,20 +6,20 @@ In addition to [connecting-tool-calls.md](connecting-tool-calls.md "mention") an
 
 There are 14 supported event types (including the stop-gap "custom\_event"):
 
-* assistant\_message
-* user\_message
-* system\_message
-* developer\_message
-* structured\_message
-* reasoning\_step
-* tool\_call
-* agent\_call
-* user\_feedback
-* button\_click
-* link\_click
-* agent\_handoff
-* human\_review
-* custom\_event
+* `assistant_message`
+* `user_message`
+* `system_message`
+* `developer_message`
+* `structured_message`
+* `reasoning_step`
+* `tool_call`
+* `agent_call`
+* `user_feedback`
+* `button_click`
+* `link_click`
+* `agent_handoff`
+* `human_review`
+* `custom_event`
 
 ### Example events with descriptions
 
