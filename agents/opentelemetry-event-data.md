@@ -1,6 +1,6 @@
-# Open Telemetry Event Data
+# OpenTelemetry Event Data
 
-Wayfound supports sending optional [Open Telemetry](https://opentelemetry.io/) fields along with each event in a session.  Here is an example that is using the supported fields (context, resource, and instrumentation) along with sub-fields:
+Wayfound supports sending optional [OpenTelemetry](https://opentelemetry.io/) fields along with each event in a session.  Here is an example that is using the supported fields (context, resource, and instrumentation) along with sub-fields:
 
 ```json
 {
@@ -32,4 +32,4 @@ Wayfound supports sending optional [Open Telemetry](https://opentelemetry.io/) f
 
 This data will be returned whenever a session is retrieved through the Wayfound API. Additionally, Wayfound will leverage this data in the future to provide deeper analysis.
 
-**Important**: the Open Telemetry data is not included when Wayfound analyzes the session.
+**Important**: the OpenTelemetry data is not included when Wayfound analyzes the session.
