@@ -34,9 +34,9 @@ wayfound_agent_id = "<AGENT_ID>"
 
 wayfound_session = Session(wayfound_api_key=wayfound_api_key, agent_id=wayfound_agent_id)
 
-formatted_messages = []
+messages = []
 
-formatted_messages.append({
+messages.append({
     "timestamp": "2025-05-07T10:00:00Z",
     "event_type": "assistant_message",
     "attributes": {
@@ -44,7 +44,7 @@ formatted_messages.append({
     }
   })
 
-formatted_messages.append({
+messages.append({
     "timestamp": "2025-05-07T10:00:04Z",
     "event_type": "user_message",
     "attributes": {
@@ -52,7 +52,7 @@ formatted_messages.append({
     }
   })
 
-result = wayfound_session.complete_session(messages=formatted_messages)
+result = wayfound_session.complete_session(messages=messages)
 ```
 
 #### Connecting Agents with JavaScript:
