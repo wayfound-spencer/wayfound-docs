@@ -24,6 +24,7 @@
 * [Definition](agents/definition.md)
 * [Guidelines](agents/guidelines.md)
 * [Connecting Agents](agents/connecting-agents.md)
+* [Connecting to Agentforce](agents/connecting-to-agentforce.md)
 * [Connecting Tool Calls](agents/connecting-tool-calls.md)
 * [Connecting User Feedback](agents/connecting-user-feedback.md)
 * [Connecting other Events](agents/connecting-other-agent-events.md)
