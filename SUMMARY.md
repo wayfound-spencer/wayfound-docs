@@ -61,3 +61,8 @@
 ***
 
 * [API](api.md)
+
+## MCP Server
+
+* [Overview](mcp-server/overview.md)
+* [Using](mcp-server/using.md)
