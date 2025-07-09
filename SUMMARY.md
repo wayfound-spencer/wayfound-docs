@@ -49,6 +49,11 @@
 
 * [Visitors](visitors.md)
 
+## MCP Server
+
+* [Overview](mcp-server/overview.md)
+* [Using](mcp-server/using.md)
+
 ## Settings
 
 * [Organizations](settings/organizations.md)
@@ -61,8 +66,3 @@
 ***
 
 * [API](api.md)
-
-## MCP Server
-
-* [Overview](mcp-server/overview.md)
-* [Using](mcp-server/using.md)
