@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Actions
 
 Actions enhance the functionality of your agents by enabling them to interact with other systems. You can add an individual agent's actions using the [actions.md](../agents/actions.md "mention") page in the Agents tab, where all available actions are listed.
