@@ -32,14 +32,3 @@ Once your agents are running and managed, you can leverage Wayfound's full capab
 2. **Engagement tracking**: Monitor Link clicks during agent interactions.
 3. **Cross-agent collaboration**: Set up agent meetings to produce organizational insights.
 
-## Don't have an agent yet? You can build one on Wayfound
-
-When using Wayfound's native tools, follow these steps:
-
-1. **Create new agent**: Navigate to [the-agents-page.md](agents/the-agents-page.md "mention") to start a new project. Click the link to build an agent in Wayfound.
-2. **Configure the agent**: Add relevant [knowledge.md](knowledge.md "mention") and define the appropriate [behavior.md](agents/behavior.md "mention")
-3. **Set up actions**: Implement necessary [actions.md](agents/actions.md "mention") for your use case.
-4. **Configure directives**: Add or confirm that your organization's [alignment.md](manager/alignment.md "mention") align with your agent's context.
-5. **Customize the visuals**: Use the [design.md](agents/design.md "mention") page to polish the agent's appearance.
-6. **Test and refine**: Thoroughly [test-your-agents.md](agents/test-your-agents.md "mention") before publication.
-
