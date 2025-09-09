@@ -1,6 +1,6 @@
 # Connecting Tool Calls
 
-After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also connect tool call information. This allows Wayfound to track tool call success rates in  [performance.md](../manager/performance.md "mention") reports. You can do so by adding a "tool\_call" event to "messages":
+After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also connect tool call information. This allows Wayfound to track tool call success rates in  [performance.md](../supervisor/performance.md "mention") reports. You can do so by adding a "tool\_call" event to "messages":
 
 ```json
 {

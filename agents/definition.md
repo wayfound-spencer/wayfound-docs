@@ -6,7 +6,7 @@ The definition page allows you to define your connected agent's key parameters. 
 
 A connected agent's parameters include:
 
-**Agent Name:** The name displayed in [the-agents-page.md](the-agents-page.md "mention") and the AI Manager's [performance.md](../manager/performance.md "mention") reports.
+**Agent Name:** The name displayed in [the-agents-page.md](the-agents-page.md "mention") and the AI Manager's [performance.md](../supervisor/performance.md "mention") reports.
 
 **Role**: The agent's identity; it includes what the agent's job is and what its intended tasks include. During the AI Manager's assessment of the agent's performance, it evaluates how well the agent performs its role.
 

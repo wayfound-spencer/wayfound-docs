@@ -1,6 +1,6 @@
 # Connecting User Feedback
 
-After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also track user feedback ratings. This allows Wayfound to generate satisfaction metrics in [performance.md](../manager/performance.md "mention") reports. You can do so by adding a "user\_feedback" event to "messages". Two types of user feedback are supported: "stars" and "thumbs\_up\_down":
+After [connecting-agents.md](connecting-agents.md "mention") to Wayfound, you can also track user feedback ratings. This allows Wayfound to generate satisfaction metrics in [performance.md](../supervisor/performance.md "mention") reports. You can do so by adding a "user\_feedback" event to "messages". Two types of user feedback are supported: "stars" and "thumbs\_up\_down":
 
 ```json
 {

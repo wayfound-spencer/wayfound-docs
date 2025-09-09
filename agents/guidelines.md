@@ -1,6 +1,6 @@
 # Guidelines
 
-Guidelines define the objectives and goals of your agent. When the AI Manager evaluates your agent's [performance](../manager/performance.md) and sends alerts based on its performance, it takes these guidelines into consideration. By adding unique guidelines for each agent, you can customize how it is managed according to its particular role.
+Guidelines define the objectives and goals of your agent. When the AI Manager evaluates your agent's [performance](../supervisor/performance.md) and sends alerts based on its performance, it takes these guidelines into consideration. By adding unique guidelines for each agent, you can customize how it is managed according to its particular role.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 10.49.01 AM.png" alt=""><figcaption></figcaption></figure>
 

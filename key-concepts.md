@@ -16,15 +16,15 @@ The best agents are specialized to perform a specific task. Agent networks lever
 
 ### AI Manager
 
-The AI Manager provides centralized oversight of your agent networks, offering network activity insights, agent relationship mapping, and network-wide behavior controls. Learn more in the Manager [overview.md](manager/overview.md "mention") page.
+The AI Manager provides centralized oversight of your agent networks, offering network activity insights, agent relationship mapping, and network-wide behavior controls. Learn more in the Manager [overview.md](supervisor/overview.md "mention") page.
 
 ### Performance
 
-The AI Manager continuously evaluates agent performance through user satisfaction metrics, knowledge gap analysis, behavior compliance monitoring, and tool utilization success rates. Learn more in the [performance.md](manager/performance.md "mention") page.
+The AI Manager continuously evaluates agent performance through user satisfaction metrics, knowledge gap analysis, behavior compliance monitoring, and tool utilization success rates. Learn more in the [performance.md](supervisor/performance.md "mention") page.
 
 ### Guidelines&#x20;
 
-Guidelines inform how the AI Manager evaluates agent performance. Wayfound offers two levels of guidelines: [guidelines.md](agents/guidelines.md "mention") for individual agents and [alignment.md](manager/alignment.md "mention") guidelines that apply across all agents in the organization.
+Guidelines inform how the AI Manager evaluates agent performance. Wayfound offers two levels of guidelines: [guidelines.md](agents/guidelines.md "mention") for individual agents and [alignment.md](supervisor/alignment.md "mention") guidelines that apply across all agents in the organization.
 
 ### Actions
 

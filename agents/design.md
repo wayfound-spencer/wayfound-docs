@@ -21,7 +21,7 @@ The Design tab includes the following customization options:
 
 **Agent Icon**: Choose from a selection of pre-designed icons to represent your agent visually.
 
-**Color**: Select a color scheme for your agent. In your agent's chat interface, the header bar will take this color. In [the-agents-page.md](the-agents-page.md "mention") and [overview.md](../manager/overview.md "mention"), the agent's icon will take on this color.
+**Color**: Select a color scheme for your agent. In your agent's chat interface, the header bar will take this color. In [the-agents-page.md](the-agents-page.md "mention") and [overview.md](../supervisor/overview.md "mention"), the agent's icon will take on this color.
 
 **Position**: Determine where the agent's chat window will appear on the user's screen. You can choose between left and right positioning to best suit your users' needs and preferences.
 

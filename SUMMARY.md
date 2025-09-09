@@ -5,13 +5,13 @@
 * [Getting Started](getting-started.md)
 * [Improving Agent Performance](improving-agent-performance.md)
 
-## Manager
+## Supervisor
 
-* [Performance](manager/performance.md)
-* [Overview](manager/overview.md)
-* [Alignment](manager/alignment.md)
-* [Meetings](manager/meetings.md)
-* [Report Sharing](manager/report-sharing.md)
+* [Performance](supervisor/performance.md)
+* [Overview](supervisor/overview.md)
+* [Alignment](supervisor/alignment.md)
+* [Meetings](supervisor/meetings.md)
+* [Report Sharing](supervisor/report-sharing.md)
 
 ***
 

@@ -17,7 +17,7 @@ Before building your agent, carefully plan its purpose and requirements:
 
 ## Managing your agent
 
-Once your agent is connected you can use the AI Manager to monitor and improve its performance on the [performance.md](manager/performance.md "mention") page.
+Once your agent is connected you can use the AI Manager to monitor and improve its performance on the [performance.md](supervisor/performance.md "mention") page.
 
 1. **Knowledge:** check knowledge gaps and fill them if necessary by adding missing information
 2. **User Satisfaction:** Check user satisfaction scores and investigate any low ratings
