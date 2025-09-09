@@ -2,6 +2,7 @@
 description: >-
   The link clicks tab displays a table of links clicked by users and data
   collected about each link.
+hidden: true
 ---
 
 # Link Clicks
