@@ -1,6 +1,6 @@
 # Guidelines
 
-Guidelines define the objectives and goals of your agent. When the AI Manager evaluates your agent's [performance](../supervisor/performance.md) and sends alerts based on its performance, it takes these guidelines into consideration. By adding unique guidelines for each agent, you can customize how it is managed according to its particular role.
+Guidelines define the objectives and goals of your agent. When the AI Supervisor evaluates your agent's [performance](../supervisor/performance.md) and sends alerts based on its performance, it takes these guidelines into consideration. By adding unique guidelines for each agent, you can customize how it is supervised according to its particular role.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 10.49.01 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,11 +20,11 @@ You can update existing guidelines by clicking on their respective text field in
 
 ## Guideline Alerts
 
-Wayfound allows you to set the importance of each guideline, giving you control over how often the AI Manager alerts you about the issues it identifies. Guidelines have two possible alert levels:
+Wayfound allows you to set the importance of each guideline, giving you control over how often the AI Supervisor alerts you about the issues it identifies. Guidelines have two possible alert levels:
 
-&#x20;<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.22.03 AM.png" alt="" data-size="line">**Needs Review:** These are guidelines that, while important to follow, do not require urgent remediation if breached. The AI Manager will collect all potential "Needs Review" guidelines violations and alert uses about them once per day.
+&#x20;<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.22.03 AM.png" alt="" data-size="line">**Needs Review:** These are guidelines that, while important to follow, do not require urgent remediation if breached. The AI Supervisor will collect all potential "Needs Review" guidelines violations and alert uses about them once per day.
 
-<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.17.36 AM.png" alt="" data-size="line"> **Needs Attention:** These are guidelines that may require an immediate response if breached. The AI Manager will alert users about "Needs Attention" guidelines as soon as it identifies a violation.
+<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.17.36 AM.png" alt="" data-size="line"> **Needs Attention:** These are guidelines that may require an immediate response if breached. The AI Supervisor will alert users about "Needs Attention" guidelines as soon as it identifies a violation.
 
 ## Optimizing Your Guidelines
 
