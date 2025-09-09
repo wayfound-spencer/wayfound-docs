@@ -30,6 +30,6 @@ Wayfound supports sending optional [OpenTelemetry](https://opentelemetry.io/) fi
 }
 ```
 
-This data will be returned whenever a session is retrieved through the Wayfound API. Additionally, Wayfound will leverage this data in the future to provide deeper analysis.
+This data will be returned whenever a session is retrieved through the Wayfound API. Additionally, Wayfound will leverage this data when used with multi-agent Wayfound Applications.
 
 **Important**: the OpenTelemetry data is not included when Wayfound analyzes the session.
