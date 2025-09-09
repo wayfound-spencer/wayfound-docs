@@ -16,7 +16,7 @@
 ***
 
 * [User Feedback](user-feedback.md)
-* [Agent Supervision Best Practices](agent-supervision-best-practices.md)
+* [Agent Supervision Best Practices](agent-management-best-practices.md)
 
 ## Agents
 
