@@ -8,7 +8,7 @@ Those with admin level permissions can access the Users page in the settings men
 
 There are currently two roles on the platform:
 
-**Users** can access the Manager, Agents, Sessions, and Visitors pages. They can create and manage agents and use integrations and actions.
+**Users** can access the Supervisor, Agents, Sessions, and Visitors pages. They can create and manage agents and use integrations and actions.
 
 **Admins** have all abilities available to users. They can also access their organization's settings, where they can manage users, add or remove actions and integrations, and view API information.
 
