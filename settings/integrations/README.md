@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Integrations
 
 Wayfound currently offers the following integrations:
