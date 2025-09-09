@@ -19,7 +19,7 @@ Our MCP implementation offers specialized tools designed to empower both technic
 * Automatically validate AI-generated outputs before finalizing critical actions.
 * Ensure adherence to business guidelines on tone, formatting, privacy, and more.
 
-_Example_: Validate customer email responses for compliance before sending, preventing guideline violations and enhancing customer satisfaction.
+_Example_: Validate AI generated customer email responses for compliance before sending, preventing guideline violations and enhancing customer satisfaction.
 
 #### `get_manager_analysis_for_agent`
 
@@ -30,14 +30,14 @@ _Example_: Quickly identify the number and types of compliance issues within you
 
 #### `get_improvement_suggestions_for_agent`
 
-* Provide developers actionable recommendations based on real-time analytics embedded directly into IDEs like Cursor, Windsurf, or Zed.
+* Provide developers actionable recommendations based on real-time analytics embedded directly into IDEs like Claude Code, Cursor, Windsurf, or Zed.
 * Continuously improve AI agent performance through practical insights.
 
 _Example_: Automatically suggest improvements to address common performance issues based on ongoing session analysis.
 
 #### `list_agents`
 
-* Retrieve a complete list of all Agents being managed by Wayfound for your organization.
+* Retrieve a complete list of all Agents being supervised by Wayfound for your organization.
 
 _Example_: Get a quick status update on your organization’s agents.
 
@@ -56,6 +56,6 @@ _Example_: Understand how each agent is configured and what their purpose in you
 
 ### Who Should Use Wayfound MCP?
 
-* Business Leaders: Gain clarity and control over AI agent operations without technical complexity.
-* Developers: Receive precise, real-time improvement recommendations directly within your workflow.
+* Business Leaders: Gain clarity and understanding over AI agent operations without technical complexity.
+* Developers: Receive precise, real-time improvement recommendations directly within your workflow.  Take direct action using your MCP enabled coding agent like Claude Code or Cursor.
 * Compliance Teams: Ensure continuous adherence to guidelines and regulations effortlessly.
