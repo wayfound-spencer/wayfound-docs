@@ -1,6 +1,6 @@
 # Connecting other Events
 
-In addition to [connecting-tool-calls.md](connecting-tool-calls.md "mention") and [connecting-user-feedback.md](connecting-user-feedback.md "mention") to your agents' session recordings in Wayfound, you can also connect other kinds of events. These can be any kind of data that is relevant to the agents' interactions.  The AI Manager can make sense of this additional data in the session when analyzing your agents' activity.
+In addition to [connecting-tool-calls.md](connecting-tool-calls.md "mention") and [connecting-user-feedback.md](connecting-user-feedback.md "mention") to your agents' session recordings in Wayfound, you can also connect other kinds of events. These can be any kind of data that is relevant to the agents' interactions.  The AI Supervisor can reason about this additional data in the session when analyzing your agents' activity.
 
 ### Event Types
 
