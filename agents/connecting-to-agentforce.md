@@ -51,11 +51,11 @@ Here, turn on **Agent Analytics**. It may take some time for Salesforce to updat
 
 ### Syncing Agents with Wayfound
 
-Once Salesforce is correctly set up in Wayfound, you can **activate** your agents on the platform. To do so, activate **Manage in Wayfound** for each agent you would like to sync with Wayfound:
+Once Salesforce is correctly set up in Wayfound, you can **activate** your agents on the platform. To do so, activate **Supervise in Wayfound** for each agent you would like to sync with Wayfound:
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-Once an Agentforce agent is activated, it appear on [the-agents-page.md](the-agents-page.md "mention") as any other agent. Now, you can add a role, goal, and guidelines to your agent to give the Wayfound AI Manager the context it needs for analyzing its performance:
+Once an Agentforce agent is activated, it appear on [the-agents-page.md](the-agents-page.md "mention") as any other agent. Now, you can add a role, goal, and guidelines to your agent to give the Wayfound AI Supervisor the context it needs for analyzing its performance:
 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
@@ -73,7 +73,7 @@ You can view your Agentforce Agents' session recordings in [recordings.md](../se
 
 ### Stop Syncing Agents
 
-If you would like to disconnect an Agentforce agent from Wayfound, deactivate **Manage in Wayfound** for the agent in Wayfound's Agentforce page. Disconnected agents can always be reconnected on this page. When reconnected, guidelines and previous sessions will be restored. You can always turn it back on again afterwards and you will not lose any guidelines or previous sessions synced to Wayfound.
+If you would like to disconnect an Agentforce agent from Wayfound, deactivate **Supervise in Wayfound** for the agent in Wayfound's Agentforce page. Disconnected agents can always be reconnected on this page. When reconnected, guidelines and previous sessions will be restored. You can always turn it back on again afterwards and you will not lose any guidelines or previous sessions synced to Wayfound.
 
 {% hint style="info" %}
 When an agent is reconnected, Wayfound will not download all sessions that have taken place during the period between the agent's deactivation and reactivation. Instead, Wayfound will only download agent sessions from the last six hours.
