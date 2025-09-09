@@ -24,7 +24,7 @@ The AI Manager continuously evaluates agent performance through user satisfactio
 
 ### Guidelines&#x20;
 
-Guidelines inform how the AI Manager evaluates agent performance. Wayfound offers two levels of guidelines: [guidelines.md](agents/guidelines.md "mention") for individual agents and [alignment.md](supervisor/alignment.md "mention") guidelines that apply across all agents in the organization.
+Guidelines inform how the AI Manager evaluates agent performance. Wayfound offers two levels of guidelines: [guidelines.md](agents/guidelines.md "mention") for individual agents and [global-guidelines.md](supervisor/global-guidelines.md "mention") guidelines that apply across all agents in the organization.
 
 ### Actions
 
