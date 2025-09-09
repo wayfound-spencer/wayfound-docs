@@ -1,12 +1,12 @@
 # Overview
 
-The Wayfound AI Manager provides visibility and control over entire network of agents. Within the Manager, the overview tab brings together different views of your AI agent network, including recent activity and a map of connections between your agents and actions.
+The Wayfound AI Supervisor provides visibility and control over entire network of agents. Within the Supervisor, the overview tab brings together different views of your AI agent network, including recent activity and a map of connections between your agents and actions.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-12-03 at 2.14.43 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Recent Activity
 
-The overview tab provides quick statistics about your agents' usage over the past 30 days. This inludes:
+The overview tab provides quick statistics about your agents' usage over the past 30 days. This includes:
 
 **Agents**: the number of agents currently active in your organization. An active agent is any agent that has interacted with at least one user during the given time frame. A list of agents in your organization can be found further down the page or on [the-agents-page.md](../agents/the-agents-page.md "mention")
 
@@ -18,7 +18,7 @@ The overview tab provides quick statistics about your agents' usage over the pas
 
 ### Agent Network
 
-The overview tab also provides a visual representation of the AI agent networks in your organization. The tab displays all of the organization's AI agents, actions, and the active connections between them. The visial includes the following viewing features:
+The overview tab also provides a visual representation of the AI agent networks in your organization. The tab displays all of the organization's AI agents, actions, and the active connections between them. The visual includes the following viewing features:
 
 * Scroll to zoom in and out
 * Click, hold, and drag the mouse to move
