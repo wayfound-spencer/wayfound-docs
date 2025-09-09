@@ -15,20 +15,20 @@ Before building your agent, carefully plan its purpose and requirements:
 2. **Create an API Key**. Users with admin status can create an API key on the [api.md](api.md "mention") page.
 3. **Integrate your agent**: Add Wayfound to your external agent using the [connecting-agents.md](agents/connecting-agents.md "mention")
 
-## Managing your agent
+## Supervise your agent
 
-Once your agent is connected you can use the AI Manager to monitor and improve its performance on the [performance.md](supervisor/performance.md "mention") page.
+Once your agent is connected you can use the AI Supervisor to monitor and improve its performance on the [performance.md](supervisor/performance.md "mention") page.
 
 1. **Knowledge:** check knowledge gaps and fill them if necessary by adding missing information
 2. **User Satisfaction:** Check user satisfaction scores and investigate any low ratings
-3. **Issue management:** Examine potential issues raised by the AI Manager
-4. **Follow-up analysis:** Delve deeper into agent performance by chatting with the AI Manager. You can start with questions recommended by Wayfound.
+3. **Issue management:** Examine potential issues raised by the AI Supervisor
+4. **Follow-up analysis:** Delve deeper into agent performance by chatting with the AI Supervisor. You can start with questions recommended by Wayfound.
 
 ## **Using advanced features**
 
 Once your agents are running and managed, you can leverage Wayfound's full capabilities such as:
 
-1. **Interaction-level analysis**: Use Recordings to review specific user conversations.
+1. **Interaction-level analysis**: Use Recordings to review specific agent interactions.
 2. **Engagement tracking**: Monitor Link clicks during agent interactions.
 3. **Cross-agent collaboration**: Set up agent meetings to produce organizational insights.
 
