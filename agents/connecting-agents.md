@@ -1,6 +1,6 @@
 # Connecting Agents
 
-The Wayfound Manager SDK provides a simple interface for connecting agents to Wayfound. It allows developers to seamlessly integrate Wayfound's AI agent management capabilities with their third-party agents using Python, JavaScript or simple REST API endpoints directly.
+The Wayfound Manager SDK provides a simple interface for connecting agents to Wayfound. It allows developers to seamlessly integrate Wayfound's AI agent supervision capabilities with their third-party agents using Python, JavaScript or simple REST API endpoints directly.
 
 The **Connection** page provides instructions and information for connecting your third-party agent to Wayfound. It includes the agent's unique ID, which is required for use of the Wayfound SDK.
 
@@ -99,5 +99,6 @@ const response = await session.completeSession({ messages });
 
 * PyPI Project: [https://pypi.org/project/wayfound/](https://pypi.org/project/wayfound/)
 * npm Package: [https://www.npmjs.com/package/wayfound](https://www.npmjs.com/package/wayfound)
-* Source Code: [https://github.com/Wayfound-AI/wayfound-sdk-python](https://github.com/Wayfound-AI/wayfound-sdk-python)
+* Python Source Code: [https://github.com/Wayfound-AI/wayfound-sdk-python](https://github.com/Wayfound-AI/wayfound-sdk-python)
+* Javascript Source Code: [https://github.com/Wayfound-AI/wayfound-sdk-javascript](https://github.com/Wayfound-AI/wayfound-sdk-javascript)
 
