@@ -10,7 +10,7 @@ You need to be an active Wayfound user and admin as well as a Salesforce user wi
 
 To connect Salesforce to Wayfound, visit the **Agentforce** page in Wayfound's Settings tab:
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (12).png" alt=""><figcaption></figcaption></figure>
 
 In the Agentforce page, click <img src="../.gitbook/assets/Screenshot 2025-04-16 at 1.42.35 PM.png" alt="" data-size="line">. This will take you through Salesforce OAuth:
 
@@ -18,7 +18,7 @@ In the Agentforce page, click <img src="../.gitbook/assets/Screenshot 2025-04-16
 
 Once you have logged into Salesforce and authorized Wayfound, you will be taken back to Wayfound's Agentforce page:
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Salesforce Configuration
 
@@ -53,11 +53,11 @@ Here, turn on **Agent Analytics**. It may take some time for Salesforce to updat
 
 Once Salesforce is correctly set up in Wayfound, you can **activate** your agents on the platform. To do so, activate **Supervise in Wayfound** for each agent you would like to sync with Wayfound:
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (13).png" alt=""><figcaption></figcaption></figure>
 
 Once an Agentforce agent is activated, it appear on [the-agents-page.md](the-agents-page.md "mention") as any other agent. Now, you can add a role, goal, and guidelines to your agent to give the Wayfound AI Supervisor the context it needs for analyzing its performance:
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -83,4 +83,4 @@ When an agent is reconnected, Wayfound will not download all sessions that have 
 
 To disconnect all Agentforce agents, click <img src="../.gitbook/assets/Screenshot 2025-04-16 at 2.15.25 PM.png" alt="" data-size="line"> in Wayfound's Agentforce page. This will deactivate all agents and Wayfound will no longer be able to sync any agents unless Salesforce is reconnected.
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (11).png" alt=""><figcaption></figcaption></figure>
