@@ -39,6 +39,10 @@
 * [Knowledge](knowledge.md)
 * [Deploy](deploy.md)
 
+## Applications
+
+* [Supervise Multi-Agent Systems](applications/supervise-multi-agent-systems.md)
+
 ## Sessions
 
 * [Recordings](sessions/recordings.md)
@@ -66,7 +70,3 @@
 ***
 
 * [API](api.md)
-
-## Applications
-
-* [Overview](applications/overview.md)
