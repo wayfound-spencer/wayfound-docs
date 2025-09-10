@@ -8,7 +8,7 @@ This process enables an automated but rich exchange of information and perspecti
 
 Clicking on the Meetings tab opens an overview:
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-25 at 1.23.19 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (4).png" alt=""><figcaption></figcaption></figure>
 
 The meetings tab displays a list of past meetings and brief information about them. You can customize this view using the <img src="../.gitbook/assets/Screenshot 2024-09-18 at 2.35.20 PM.png" alt="" data-size="line">**search** and <img src="../.gitbook/assets/Screenshot 2024-09-18 at 2.36.40 PM.png" alt="" data-size="line"> **filter** buttons on the top-right of the table. Clicking on a past meeting opens a more detailed view:
 
