@@ -18,7 +18,7 @@ The **Application** detail screen provides a quick overview of all the `traces` 
 
 <figure><img src="../.gitbook/assets/Untitled (20).png" alt=""><figcaption></figcaption></figure>
 
-Clicking on a `trace` id will display the trace details drawer where you can view key analysis and the multi-agent timeline.
+Clicking on a `trace` id will display the `trace` details drawer where you can view key analysis and the multi-agent timeline.
 
 <figure><img src="../.gitbook/assets/Untitled (21).png" alt="" width="563"><figcaption></figcaption></figure>
 
