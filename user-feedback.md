@@ -4,7 +4,7 @@ When evaluating agent performance, the AI Supervisor follows the [guidelines.md]
 
 Feedback can be found when opening a recording of a session where the AI Supervisor identified a guideline violation. Sessions can be accessed directly in the [Broken link](broken-reference "mention") page or through links in the [performance.md](supervisor/performance.md "mention") page. Along with a transcript of the interaction, each sessions displays the AI Supervisor's review, including highlights of any potential guideline violations:
 
-<figure><img src=".gitbook/assets/Screenshot 2025-03-07 at 9.17.47 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Untitled (5).png" alt=""><figcaption></figcaption></figure>
 
 If the guideline violation does not align with your expectations, you can refine it by clicking the<img src=".gitbook/assets/Screenshot 2025-03-07 at 9.25.22 AM.png" alt="" data-size="line"> feedback button next to the guideline violation bullet point. This opens a User Feedback window:
 
