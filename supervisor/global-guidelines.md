@@ -8,7 +8,7 @@ description: >-
 
 Global Guidelines are natural-language statements that apply to all of your Agents universally. The AI Supervisor uses global guidelines, in addition to its own judgment, to measure your agents' quality and alignment. These guidelines sit at the top of a two-level hierarchy.  Below global guidelines are guidelines for individual agents. This hierarchical approach draws from cutting-edge research in the deployment and control of large language models (e.g. [Wallace et al 2024](https://arxiv.org/pdf/2404.13208)).&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-02-25 at 10.34.19 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (3).png" alt=""><figcaption></figcaption></figure>
 
 New global guidelines can be added by clicking **+ Add Guideline** below the currently active ones. Clicking the button reveals a menu displaying multiple kinds of guidelines to add:
 
