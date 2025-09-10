@@ -18,6 +18,10 @@
 * [User Feedback](user-feedback.md)
 * [Agent Supervision Best Practices](agent-management-best-practices.md)
 
+## Applications
+
+* [Supervise Multi-Agent Systems](applications/supervise-multi-agent-systems.md)
+
 ## Agents
 
 * [The Agents Page](agents/the-agents-page.md)
@@ -38,10 +42,6 @@
 
 * [Knowledge](knowledge.md)
 * [Deploy](deploy.md)
-
-## Applications
-
-* [Supervise Multi-Agent Systems](applications/supervise-multi-agent-systems.md)
 
 ## Sessions
 
