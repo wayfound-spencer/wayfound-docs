@@ -4,7 +4,7 @@ The Wayfound Manager SDK provides a simple interface for connecting agents to Wa
 
 The **Connection** page provides instructions and information for connecting your third-party agent to Wayfound. It includes the agent's unique ID, which is required for use of the Wayfound SDK.
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

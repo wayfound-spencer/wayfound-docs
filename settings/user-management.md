@@ -20,6 +20,6 @@ You can invite new users by clicking <img src="../.gitbook/assets/image (1) (1).
 
 To change a user's status on the platform, an admin can click the <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> edit user button on the right-hand side of the table. This opens the Edit User menu:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Here, you can check or un-check Admin to switch the user's status. You can also toggle whether the user receives real-time and daily agent alerts for agents connected by that user.
+Here, you can check or un-check Admin to switch the user's status. You can also toggle whether the user receives real-time and daily agent alerts for agents.

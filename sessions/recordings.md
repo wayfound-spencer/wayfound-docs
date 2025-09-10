@@ -6,7 +6,7 @@ description: >-
 
 # Recordings
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### View Options
 
