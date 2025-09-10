@@ -2,7 +2,7 @@
 
 Those with admin level permissions can access the Users page in the settings menu. This page displays a table of all users and their statuses. The page also allows you to manage users and their roles in your organization.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled 2.png" alt=""><figcaption></figcaption></figure>
 
 ### Roles
 
