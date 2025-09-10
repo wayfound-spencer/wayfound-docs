@@ -4,7 +4,7 @@ Wayfound allows you to connect and manage a network of specialized agents. Each 
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-19 at 9.57.23 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (7).png" alt=""><figcaption></figcaption></figure>
 
 ### View and manage current agents
 
@@ -18,9 +18,7 @@ Wayfound lets you connect existing external agents to the platform. This include
 
 To onboard an existing agent:
 
-1. Click <img src="../.gitbook/assets/Screenshot 2024-11-25 at 12.27.06 PM.png" alt="" data-size="line"> at the top-right corner of the Agents tab.
-2. A new menu will appear. Name the agent and explain its role and goal. This information will inform the AI manager's performance evaluation of this agent. Click **Connect**.
+1. Click <img src="../.gitbook/assets/Untitled (8).png" alt="" data-size="line"> at the top-right corner of the Agents tab.
+2. A new menu will appear. Name the agent and explain its role and goal. This information will inform the AI manager's performance evaluation of this agent. Click **Let's Go!**.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-10 at 11.22.47 AM.png" alt=""><figcaption></figcaption></figure>
-
-For more documentation on building agents in wayfound, [contact us](https://www.wayfound.ai/get-started).
+<figure><img src="../.gitbook/assets/Untitled (9).png" alt="" width="563"><figcaption></figcaption></figure>
