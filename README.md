@@ -2,8 +2,6 @@
 
 Wayfound is the world's first AI Agent Supervisor platform. Our platform helps businesses supervise, evaluate, and optimize the performance of their AI Agents through a single-pane observability dashboard. Wayfound's AI Supervisor captures and analyzes every interaction of the agents you connect to the platform. The AI Supervisor assesses their performance and suggests improvements in near real-time. In addition to driving Agent behavior optimization, Wayfound helps you align your Agents with your company's values and brand messaging, ensuring they deliver consistent, business-relevant outcomes.
 
-{% embed url="https://www.youtube.com/watch?v=fwZFnLZzCEs" %}
-
 
 
 ## The Wayfound platform
