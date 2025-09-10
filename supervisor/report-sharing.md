@@ -2,7 +2,7 @@
 
 Wayfound enables users to share individual agents' Supervisor Reports with audiences outside the platform (with optional password). These reports provide comprehensive performance insights similar to those found in the Supervisor's [performance.md](performance.md "mention") tab.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Shared Supervisor Reports include the AI Supervisor's detailed analysis of agent performance, featuring:
 
@@ -20,7 +20,7 @@ As in the [performance.md](performance.md "mention") tab, viewers can drill down
 
 Before users can share Supervisor Reports, an organization's admin user must enable the feature in the [Broken link](broken-reference "mention") page:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure>
 
 The Report Sharing feature is turned off by default. The feature requires administrator opt-in because generating reports creates pages with publicly accessible APIs (with optional password).
 

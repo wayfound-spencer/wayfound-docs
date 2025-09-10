@@ -4,7 +4,7 @@ The Performance tab provides a comprehensive overview of your individual agents'
 
 This view is designed to help you quickly understand the strengths and weaknesses of your agents and identify directions for improvement.&#x20;
 
-<figure><img src="../.gitbook/assets/Untitled (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The Performance tab provides insights for all agents in the organization with at least 5 user interactions. The performance of a given agent can be displayed  by clicking  <img src="../.gitbook/assets/Screenshot 2024-09-25 at 10.41.29 AM.png" alt="" data-size="line"> or hidden by clicking <img src="../.gitbook/assets/Screenshot 2024-09-25 at 10.41.36 AM.png" alt="" data-size="line"> next to each agent's name.&#x20;
 
