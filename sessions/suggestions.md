@@ -8,7 +8,7 @@ description: >-
 
 As you build and deploy AI agents, their interactions with users and workflows will scale beyond a level that humans can monitor on their own. To solve this challenge, Wayfound provides an automatic assessment of your AI agents using its AI Supervisor Agent, which continually monitors and evaluates your agents' interactions.  It provides you with insights about your agents, serving as your interface with AI agents at scale.
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2024-12-03 at 2.26.35 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Untitled (15).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Suggestions components
 
