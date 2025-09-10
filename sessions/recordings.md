@@ -6,7 +6,7 @@ description: >-
 
 # Recordings
 
-<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2025-03-19 at 9.59.35 PM.png" alt=""><figcaption></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption></figcaption></figure></div>
 
 ### View Options
 
@@ -26,6 +26,8 @@ The table of sessions displays columns of different data pertaining to each inte
 
 **Tags:** Keywords categorizing the content of each conversation
 
+**Labels:** Labels applied to session recordings
+
 **Grade:** The AI supervisor evaluates the quality of each recording. It assigns one of the following grades:
 
 <table><thead><tr><th width="211">Grade</th><th>Explanation</th><th data-hidden></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.16.46 AM.png" alt="" data-size="line"><strong>Hot to go!</strong></td><td>The agent is meeting expectations in its interactions. However, the AI Supervisor can still raise potential issues and provide suggestions for improvement.</td><td></td></tr><tr><td><img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.22.03 AM.png" alt="" data-size="line"><strong>Needs review</strong></td><td>The agent's performance is satisfactory, but there are areas that require closer attention and potential improvement.</td><td></td></tr><tr><td><img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.17.36 AM.png" alt="" data-size="line"><strong>Needs attention</strong></td><td>The agent is facing significant challenges or issues that require immediate focus and resolution.</td><td></td></tr></tbody></table>
@@ -38,7 +40,7 @@ The table of sessions displays columns of different data pertaining to each inte
 
 **Duration:** Length of the conversation
 
-**Started:** Date and time the conversation began
+**Last Updated:** Date and time the session was last updated
 
 ### Delete a recording
 
