@@ -21,12 +21,17 @@ Our MCP implementation offers specialized tools designed to empower both technic
 
 _Example_: Validate AI generated customer email responses for compliance before sending, preventing guideline violations and enhancing customer satisfaction.
 
-#### `get_manager_analysis_for_agent`
+#### `get_supervisor_analysis_for_agent`
 
 * Gain real-time insights into AI agent performance directly through popular MCP clients like Claude Desktop, Cursor, and Slack.
 * Effortlessly track guideline adherence, performance issues, and knowledge gaps.
 
 _Example_: Quickly identify the number and types of compliance issues within your Customer Support agents over the past week.
+
+#### `get_session_analysis`
+
+* Get the full session analysis and transcript (if allowed) for a specific session ID.&#x20;
+* This includes all messages, metadata, ratings, knowledge gaps, guideline violations, sentiment, and other session data.
 
 #### `get_improvement_suggestions_for_agent`
 
