@@ -8,7 +8,7 @@ The Wayfound Supervisor takes into account your agent’s role, goal, and guidel
 
 #### 1. Select test sessions
 
-These are sessions that are the primary content of your test runs.  Test sessions can be uploaded via the Test Session API to facilitate testing before your agent is in production.  You can also copy production sessions to become test sessions when you are managing an agent already released to production.
+These are sessions that are the primary content of your test runs.  Test sessions can be uploaded via the [Test Session API](https://wayfound-api.readme.io/reference/create-test-session) to facilitate testing before your agent is in production.  You can also copy production sessions to become test sessions when you are managing an agent already released to production.
 
 #### **2. Set expected outcomes on test sessions**
 
