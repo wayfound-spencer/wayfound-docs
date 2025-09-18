@@ -26,6 +26,7 @@
 
 * [The Agents Page](agents/the-agents-page.md)
 * [Definition](agents/definition.md)
+* [Test Mode](agents/test-mode.md)
 * [Guidelines](agents/guidelines.md)
 * [Connecting Agents](agents/connecting-agents.md)
 * [Connecting to Agentforce](agents/connecting-to-agentforce.md)
