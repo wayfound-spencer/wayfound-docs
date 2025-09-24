@@ -52,7 +52,7 @@ messages.append({
     }
   })
 
-result = wayfound_session.complete_session(messages=messages)
+result = wayfound_session.create(messages=messages)
 ```
 
 #### Connecting Agents with JavaScript:
@@ -92,7 +92,7 @@ const messages = [
   },
 ];
 
-const response = await session.completeSession({ messages });
+const response = await session.create({ messages });
 ```
 
 ### Resources
