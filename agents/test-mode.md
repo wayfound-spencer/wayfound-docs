@@ -26,9 +26,11 @@ When reviewing sessions the session drawer has a “Copy session for evaluation�
 
 <figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
-The session is now listed as a “Test Session” in the Agent’s Test Mode page.
+The session is now listed as a “Test Session” in the Agent’s Test Mode pane after clicking on "Run Test from the Test Mode menu.
 
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Clicking **View** to review the test sessions
 
@@ -38,7 +40,7 @@ Clicking **View** to review the test sessions
 
 For each guideline and test session you can set the expected outcome by clicking on the ‘Test guideline’ button next to the guideline.
 
-<figure><img src="../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 This will open a “Guideline Expectations” modal where you can set the expected outcome for each test session for the given guideline.
 
@@ -50,16 +52,13 @@ Repeat this process for each guideline and each test session.
 
 Select the sessions to test as well as the number of iterations to run. It is suggested to start with a lower number of iterations as you make guideline changes and gradually increase the iterations as the results are aligning with your expectations.
 
-<figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 Click “Test Selected” and wait for processing to complete.
 
-<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 When processing is complete you can review the test results.
 
-<figure><img src="../.gitbook/assets/unknown (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-Note that the **⛶** icon next to the Results tab can open a larger modal.
-
-<figure><img src="../.gitbook/assets/unknown (8).png" alt=""><figcaption></figcaption></figure>
