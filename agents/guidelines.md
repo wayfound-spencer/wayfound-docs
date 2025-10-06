@@ -2,9 +2,9 @@
 
 Guidelines define the objectives and goals of your agent. When the AI Supervisor evaluates your agent's [performance](../supervisor/performance.md) and sends alerts based on its performance, it takes these guidelines into consideration. By adding unique guidelines for each agent, you can customize how it is supervised according to its particular role.
 
-<figure><img src="../.gitbook/assets/Untitled (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-## Adding and updating guidelines
+Adding and updating guidelines
 
 To add more guidelines, click the **+ Add Guideline** button below the list of current guidelines. You may add the following kinds:
 
