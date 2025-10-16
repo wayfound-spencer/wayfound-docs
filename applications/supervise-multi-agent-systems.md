@@ -32,7 +32,7 @@ Click on an entry in the timeline to view the full agent analysis drawer.
 
 After an Application is created in Wayfound, the next step is to enhance your session data to include the `applicationId`, `trace_id`, and `span_id` .
 
-It is important to use the same `trace_id` across steps where multiple agents are involved so that Wayfound can properly correlate the multi-agent session data.
+It is important to use the same `trace_id` across sessions where multiple agents are involved so that Wayfound can properly correlate the multi-agent session data.
 
 The `span_id` and optional `parent_span_id` can be used to further group data within a single agent.
 
