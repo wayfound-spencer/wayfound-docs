@@ -43,10 +43,10 @@ Here is an example of a Wayfound session with these fields included:
  "agentId": "22198fc5-1056-4a9d-b455-440db1249539",
  "applicationId": "7cf54242-0898-4ac1-a09c-c0e4be3f000a",
  "firstMessageAt": "2025-15-08T10:51:00.000Z",
- "lastMessageAt": "2025-15-08T10:54:00.000Z",
+ "lastMessageAt": "2025-15-08T10:51:00.000Z",
     "messages": [
       {
-        "timestamp": "2025-10-15T22:47:26.014Z",
+        "timestamp": "2025-15-08T10:51:00.000Z",
         "event_type": "assistant_message",
         "attributes": {
           "content": "Hello, how can I help you today?"
