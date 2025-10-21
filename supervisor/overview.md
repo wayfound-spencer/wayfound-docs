@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Overview
 
 The Wayfound AI Supervisor provides visibility and control over entire network of agents. Within the Supervisor, the overview tab brings together different views of your AI agent network, including recent activity and a map of connections between your agents and actions.
