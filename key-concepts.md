@@ -26,12 +26,8 @@ The AI Supervisor continuously evaluates agent performance through user satisfac
 
 Guidelines inform how the AI Manager evaluates agent performance. Wayfound offers two levels of guidelines: [guidelines.md](agents/guidelines.md "mention") for individual agents and [global-guidelines.md](supervisor/global-guidelines.md "mention") guidelines that apply across all agents in the organization.
 
-### Tools
-
-Agents can perform tool actions to help them accomplish their assigned task. Tool actions include collaboration with other agents on the platform as well as the use of external tools and integrations. Learn more on the [Broken link](broken-reference "mention") page.
-
 ### Sessions
 
-Sessions provide monitoring capabilities through [recordings.md](sessions/recordings.md "mention") of agent-user interactions and tracking of [Broken link](broken-reference "mention").
+Sessions provide monitoring capabilities through [recordings.md](sessions/recordings.md "mention") of agent-user interactions.
 
 ###
