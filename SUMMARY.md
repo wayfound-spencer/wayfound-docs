@@ -3,7 +3,6 @@
 * [Welcome to Wayfound](README.md)
 * [Key Concepts](key-concepts.md)
 * [Getting Started](getting-started.md)
-* [Improving Agent Performance](improving-agent-performance.md)
 
 ## Supervisor
 
@@ -34,21 +33,11 @@
 * [Connecting User Feedback](agents/connecting-user-feedback.md)
 * [Connecting other Events](agents/connecting-other-agent-events.md)
 * [OpenTelemetry Event Data](agents/opentelemetry-event-data.md)
-* [Test your agents](agents/test-your-agents.md)
-* [Behavior](agents/behavior.md)
-* [Actions](agents/actions.md)
-* [Design](agents/design.md)
-
-***
-
-* [Knowledge](knowledge.md)
-* [Deploy](deploy.md)
 
 ## Sessions
 
 * [Recordings](sessions/recordings.md)
 * [Suggestions](sessions/suggestions.md)
-* [Link Clicks](sessions/link-clicks.md)
 
 ***
 
@@ -63,10 +52,6 @@
 
 * [Organizations](settings/organizations.md)
 * [User Management](settings/user-management.md)
-* [Integrations](settings/integrations/README.md)
-  * [HubSpot Integration](settings/integrations/hubspot-integration.md)
-  * [Salesforce Integration](settings/integrations/salesforce-integration.md)
-* [Actions](settings/actions.md)
 
 ***
 

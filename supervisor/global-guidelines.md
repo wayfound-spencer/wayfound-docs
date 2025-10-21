@@ -20,4 +20,4 @@ New global guidelines can be added by clicking **+ Add Guideline** below the cur
 
 <img src="../.gitbook/assets/Screenshot 2024-09-25 at 11.56.52 AM.png" alt="" data-size="line">**Custom Command:** implement organization-wide protocols or behaviors that are unique to the company. This could include specific ways of handling certain situations or standard responses to common queries.
 
-Visit [improving-agent-performance.md](../improving-agent-performance.md "mention") for tips on writing good Global Guidelines.
+Visit [Broken link](broken-reference "mention") for tips on writing good Global Guidelines.

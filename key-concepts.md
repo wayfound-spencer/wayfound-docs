@@ -28,10 +28,10 @@ Guidelines inform how the AI Manager evaluates agent performance. Wayfound offer
 
 ### Tools
 
-Agents can perform tool actions to help them accomplish their assigned task. Tool actions include collaboration with other agents on the platform as well as the use of external tools and integrations. Learn more on the [actions.md](agents/actions.md "mention") page.
+Agents can perform tool actions to help them accomplish their assigned task. Tool actions include collaboration with other agents on the platform as well as the use of external tools and integrations. Learn more on the [Broken link](broken-reference "mention") page.
 
 ### Sessions
 
-Sessions provide monitoring capabilities through [recordings.md](sessions/recordings.md "mention") of agent-user interactions and tracking of [link-clicks.md](sessions/link-clicks.md "mention").
+Sessions provide monitoring capabilities through [recordings.md](sessions/recordings.md "mention") of agent-user interactions and tracking of [Broken link](broken-reference "mention").
 
 ###

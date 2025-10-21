@@ -12,6 +12,6 @@ As you build and deploy AI agents, their interactions with users and workflows w
 
 ### Suggestions components
 
-**Suggested behaviors** are recommendations to improve the quality of an agent's interactions. These recommendations are written as prompts using principles from[#how-to-create-effective-behaviors](../agents/behavior.md#how-to-create-effective-behaviors "mention"). They can be leveraged as directives in the connected agent.
+**Suggested behaviors** are recommendations to improve the quality of an agent's interactions. These recommendations are written as prompts using principles from[Broken link](broken-reference "mention"). They can be leveraged as directives in the connected agent.
 
 **Suggested knowledge** identifies gaps in knowledge that, when filled, can enhance the agent's performance. We recommend that you consider each gap and the possible sources of information that can be used to fill them.&#x20;
