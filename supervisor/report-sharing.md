@@ -40,7 +40,7 @@ Wayfound allows you to protect the manager report with an optional password. To 
 
 When the password option is active, the shared report requests the password before it displays the manager insights:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 Once a share link is generated, you can disable sharing at any time by revisiting the Share Report window. Here, you can also remove the report's optional password if you created one:
 
