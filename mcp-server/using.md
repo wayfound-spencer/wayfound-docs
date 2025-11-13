@@ -5,7 +5,7 @@
 The Wayfound MCP server can be accessed at:
 
 ```
-https://app.wayfound.ai/sse
+https://app.wayfound.ai/mcp
 ```
 
 ### Authentication
@@ -39,7 +39,7 @@ Add the following to your mcp.json file.  Choose the example that matches your a
       "command": "npx",
       "args": [
         "mcp-remote",
-        "https://app.wayfound.ai/sse",
+        "https://app.wayfound.ai/mcp",
         "--header",
         "Authorization:${AUTH_HEADER}"
       ],
@@ -57,8 +57,8 @@ Add the following to your mcp.json file.  Choose the example that matches your a
 {
   "mcpServers": {
     "Wayfound": {
-      "url": "https://app.wayfound.ai/sse",
-      "transport": "sse"
+      "url": "https://app.wayfound.ai/mcp",
+      "transport": "http"
     }
   }
 }
@@ -71,11 +71,11 @@ Run the following command line to add Wayfound MCP server to Claude Code:
 #### API Key
 
 ```
-claude mcp add --transport sse wayfound https://app.wayfound.ai/sse --header "Authorization: Bearer <YOUR_MCP_API_KEY>"
+claude mcp add --transport http wayfound https://app.wayfound.ai/mcp --header "Authorization: Bearer <YOUR_MCP_API_KEY>"
 ```
 
 #### OAuth
 
 ```
-claude mcp add --transport sse wayfound https://app.wayfound.ai/sse
+claude mcp add --transport http wayfound https://app.wayfound.ai/mcp
 ```
