@@ -14,11 +14,11 @@ There are currently two roles on the platform:
 
 ### Adding Users
 
-You can invite new users by clicking <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line"> at the top-right corner of the page. Enter the new user's email address in the pop-up window to send them an invitation to join the platform. Check the **Admin** box to give them the admin role. When left unchecked, the user will join the organization as a "user."
+You can invite new users by clicking <img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line"> at the top-right corner of the page. Enter the new user's email address in the pop-up window to send them an invitation to join the platform. Check the **Admin** box to give them the admin role. When left unchecked, the user will join the organization as a "user."
 
 ### Changing a user's status
 
-To change a user's status on the platform, an admin can click the <img src="../.gitbook/assets/image (2).png" alt="" data-size="line"> edit user button on the right-hand side of the table. This opens the Edit User menu:
+To change a user's status on the platform, an admin can click the <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> edit user button on the right-hand side of the table. This opens the Edit User menu:
 
 <figure><img src="../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption></figcaption></figure>
 

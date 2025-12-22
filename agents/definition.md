@@ -2,7 +2,7 @@
 
 The definition page allows you to define your connected agent's key parameters. These parameters are used by the AI Supervisor to evaluate your agent's performance.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A connected agent's parameters include:
 

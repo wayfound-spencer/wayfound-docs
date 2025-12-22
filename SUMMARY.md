@@ -41,6 +41,7 @@
 
 ***
 
+* [Accounts](accounts.md)
 * [Visitors](visitors.md)
 
 ## MCP Server

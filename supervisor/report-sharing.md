@@ -18,7 +18,7 @@ As in the [performance.md](performance.md "mention") tab, viewers can drill down
 
 ### 1. Enable the feature
 
-Before users can share Supervisor Reports, an organization's admin user must enable the feature in the [Broken link](broken-reference "mention") page:
+Before users can share Supervisor Reports, an organization's admin user must enable the feature in the [Broken link](/broken/pages/lVsp7WpMS43Szr3UlLY8 "mention") page:
 
 <figure><img src="../.gitbook/assets/Untitled (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@ Wayfound allows you to protect the manager report with an optional password. To 
 
 When the password option is active, the shared report requests the password before it displays the manager insights:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="506"><figcaption></figcaption></figure>
 
 Once a share link is generated, you can disable sharing at any time by revisiting the Share Report window. Here, you can also remove the report's optional password if you created one:
 

@@ -2,7 +2,7 @@
 
 When evaluating agent performance, the AI Supervisor follows the [guidelines.md](agents/guidelines.md "mention") set for each agent. The AI Supervisor may not always interpret the guidelines in ways that users anticipate when writing them. In cases such as this, Wayfound allows users to provide CLHF (continuous learning through human feedback) to the AI Supervisor to refine how it applies a guideline moving forward.
 
-Feedback can be found when opening a recording of a session where the AI Supervisor identified a guideline violation. Sessions can be accessed directly in the [Broken link](broken-reference "mention") page or through links in the [performance.md](supervisor/performance.md "mention") page. Along with a transcript of the interaction, each sessions displays the AI Supervisor's review, including highlights of any potential guideline violations:
+Feedback can be found when opening a recording of a session where the AI Supervisor identified a guideline violation. Sessions can be accessed directly in the [Broken link](/broken/pages/EUHPuLIhAchkBpd1a4LC "mention") page or through links in the [performance.md](supervisor/performance.md "mention") page. Along with a transcript of the interaction, each sessions displays the AI Supervisor's review, including highlights of any potential guideline violations:
 
 <figure><img src=".gitbook/assets/Untitled (5).png" alt=""><figcaption></figcaption></figure>
 
