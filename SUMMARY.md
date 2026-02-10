@@ -53,6 +53,7 @@
 
 * [Organizations](settings/organizations.md)
 * [User Management](settings/user-management.md)
+* [Okta Integration](settings/okta-integration.md)
 
 ***
 
