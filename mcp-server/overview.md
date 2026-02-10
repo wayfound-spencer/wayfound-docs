@@ -53,6 +53,20 @@ _Example_: Get a quick status update on your organization’s agents.
 
 _Example_: Understand how each agent is configured and what their purpose in your organization is.
 
+#### `get_session_tags_for_agent`
+
+* Retrieve the tags and labels for an agent. &#x20;
+
+_Example_: Get a list of tags or labels that can be used for questions related to tag or label filtering.
+
+#### `list_sessions`
+
+* Retrieve sessions with provided include or exclude filtering for tags or labels. &#x20;
+
+_Example_: Get a list of sessions for a given tag/label query.
+
+
+
 ### Business Benefits of Wayfound MCP
 
 * Rapid Deployment: Dramatically reduce the time required to integrate and operationalize AI agents.
