@@ -2,9 +2,24 @@
 
 The Salesforce Integration allows you to connect your Salesforce Agentforce agents with Wayfound, enabling comprehensive performance monitoring and management. This integration synchronizes your Salesforce agents with Wayfound's powerful analytics and evaluation tools, providing valuable insights to improve agent effectiveness.
 
-### Requirements
+### Before You Connect
 
-You need to be an active Wayfound user and admin as well as a Salesforce user with permission to connect Salesforce via OAuth. In addition, the integration requires you to have access to Agentforce and Data Cloud on Salesforce.
+**Salesforce Requirements** - What must be enabled in Salesforce before starting:
+
+* Agentforce enabled with at least one active agent
+* Data Cloud provisioned
+* Agent Analytics enabled in Data Cloud
+
+**Who Should Authorize the Connection?**
+
+* A System Administrator role with have all of the required permissions
+* For non-admin roles the following permissions are needed:
+  * API Enabled
+  * Data Cloud User permission set
+  * Read access to BotDefinition
+  * Approve Uninstalled Connected Apps or Use Any API Client
+
+You need to be an active Wayfound user and admin as well as a Salesforce user with required permissions to connect Salesforce via OAuth.
 
 ### Connecting to Salesforce
 
@@ -49,6 +64,18 @@ If Data Cloud is not enabled, click <img src="../.gitbook/assets/image (24).png"
 
 Here, turn on **Agent Analytics**. It may take some time for Salesforce to update this setting. Return to Wayfound's Agentforce page to confirm that Agent Analytics have been activated. If so, Wayfound will display a blue check mark <img src="../.gitbook/assets/image (23).png" alt="" data-size="line"> next to **Enable Data Cloud**.
 
+### What Wayfound Accesses
+
+When you authorize the connection, Wayfound requests three OAuth scopes from Salesforce:
+
+| Scope           | What It Does                                                                 |
+| --------------- | ---------------------------------------------------------------------------- |
+| `api`           | Reads your list of Agentforce agents                                         |
+| `cdp_api`       | Reads agent conversation transcripts from Data Cloud                         |
+| `refresh_token` | Keeps the connection active so Wayfound can sync sessions in the background. |
+
+All access is **read-only**.  Wayfound never writes data back to Salesforce.
+
 ### Syncing Agents with Wayfound
 
 Once Salesforce is correctly set up in Wayfound, you can **activate** your agents on the platform. To do so, activate **Supervise in Wayfound** for each agent you would like to sync with Wayfound:
@@ -84,3 +111,13 @@ When an agent is reconnected, Wayfound will not download all sessions that have 
 To disconnect all Agentforce agents, click <img src="../.gitbook/assets/Screenshot 2025-04-16 at 2.15.25 PM.png" alt="" data-size="line"> in Wayfound's Agentforce page. This will deactivate all agents and Wayfound will no longer be able to sync any agents unless Salesforce is reconnected.
 
 <figure><img src="../.gitbook/assets/Untitled (11).png" alt=""><figcaption></figcaption></figure>
+
+### Troubleshooting
+
+| Problem                                  | Likely Cause                                                                |
+| ---------------------------------------- | --------------------------------------------------------------------------- |
+| OAuth authorization fails immediately    | User doesn't have API Enabled or lacks permission to approve connected apps |
+| Connection succeeds but no agents appear | Agentforce isn't enabled or no agents are active                            |
+| Agents appear but no conversations sync  | Data Cloud or Agent Analytics isn't enabled                                 |
+| "Access Denied" or scope errors          | User is missing the Data Cloud User permission set                          |
+
