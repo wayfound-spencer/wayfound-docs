@@ -45,6 +45,10 @@
 * [Accounts](accounts.md)
 * [Visitors](visitors.md)
 
+## Skills
+
+* [Agent Skill](skills/agent-skill.md)
+
 ## MCP Server
 
 * [Overview](mcp-server/overview.md)
