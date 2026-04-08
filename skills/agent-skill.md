@@ -1,6 +1,6 @@
 # Agent Skill
 
-Wayfound publishes an open-source [https://agentskills.io](https://agentskills.io/) that teaches AI coding agents how to integrate Wayfound into your application. When a developer asks their coding agent to "add Wayfound  supervision" or "send session transcripts to Wayfound," the agent automatically knows how to wire up the SDK and API.&#x20;
+Wayfound publishes an open-source skill that teaches AI coding agents how to integrate Wayfound into your application. When a developer asks their coding agent to "add Wayfound  supervision" or "send session transcripts to Wayfound," the agent automatically knows how to wire up the SDK and API.&#x20;
 
 #### What is an Agent Skill?
 
