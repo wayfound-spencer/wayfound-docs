@@ -9,7 +9,7 @@
 * [Performance](supervisor/performance.md)
 * [Overview](supervisor/overview.md)
 * [Global Guidelines](supervisor/global-guidelines.md)
-* [Meetings](supervisor/meetings.md)
+* [Reports](supervisor/reports.md)
 * [Report Sharing](supervisor/report-sharing.md)
 
 ***

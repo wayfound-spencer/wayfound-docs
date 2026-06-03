@@ -18,7 +18,7 @@ The overview tab provides quick statistics about your agents' usage over the pas
 
 **Unique visitors**: the total number of unique users visiting the site in the given time frame.
 
-**Meetings**: the total number of [meetings.md](meetings.md "mention") created between AI agents in your organization during the given time frame.
+**Meetings**: the total number of [reports.md](reports.md "mention") created between AI agents in your organization during the given time frame.
 
 ### Agent Network
 

@@ -10,12 +10,12 @@ Wayfound is the world's first AI Agent Supervisor platform. Our platform helps b
 
 Wayfound is organized into five tabs:
 
-[Supervisor](/broken/pages/d5T4c7pMyMjruSCHUSk0) provides a global view of your network of Agents, near real-time Agent performance reviews, access to guidelines that apply across all Agents, and an interface for facilitating meetings between agents&#x20;
+[Supervisor](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/supervisor) provides a global view of your network of Agents, near real-time Agent performance reviews, access to guidelines that apply across all Agents, and an interface for facilitating meetings between agents&#x20;
 
-[**Agents**](/broken/pages/yHrXyEBoTO91EfJPbPLQ) allows you to connect and view agents
+[**Agents**](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/agents) allows you to connect and view agents
 
-[**Sessions**](/broken/pages/EUHPuLIhAchkBpd1a4LC) provides a record of Agent activity and suggestions for improving individual Agent performance
+[**Sessions**](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/sessions) provides a record of Agent activity and suggestions for improving individual Agent performance
 
 [**Visitors**](visitors.md) keeps track of users' interactions with Agents on the platform
 
-[**Settings**](/broken/pages/lVsp7WpMS43Szr3UlLY8) allows you to manage users, organizations, actions, and integrations. The settings tab is only visible to admin users
+[**Settings**](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/settings) allows you to manage users, organizations, actions, and integrations. The settings tab is only visible to admin users
