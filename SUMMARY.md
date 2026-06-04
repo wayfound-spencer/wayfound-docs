@@ -27,6 +27,7 @@
 * [Definition](agents/definition.md)
 * [Test Mode](agents/test-mode.md)
 * [Guidelines](agents/guidelines.md)
+* [Tags](agents/tags.md)
 * [Connecting Agents](agents/connecting-agents.md)
 * [Connecting to Agentforce](agents/connecting-to-agentforce.md)
 * [Connecting to Intercom](agents/connecting-to-intercom.md)
