@@ -37,3 +37,13 @@ Guidelines are most effective when they:
 **Provide Context:** They provide context about when exceptions are acceptable.
 
 **Align with Priorities:** They align with your business priorities and user needs.
+
+## How the Supervisor interprets your guidelines
+
+You write guidelines in natural language, so real sessions inevitably raise edge cases. The Wayfound Supervisor learns your intended interpretation from the feedback you give and records it in the agent's **evaluation rubric** — a per‑guideline grading guide it applies to every future session.
+
+* When you correct a verdict (see [Teach the Supervisor](../user-feedback.md#teach-the-supervisor)), the Supervisor updates its interpretation of that guideline so it scores the same situation your way next time.
+* Learned interpretations can only **narrow** a guideline (clarify how it applies), never broaden it beyond what you wrote.
+* Only **published** guidelines are used to evaluate sessions. Draft edits don't affect scoring until you publish them.
+
+Learn more in [How the Supervisor Learns](../supervisor/how-the-supervisor-learns.md).

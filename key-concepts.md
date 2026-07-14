@@ -30,4 +30,14 @@ Guidelines inform how the AI Manager evaluates agent performance. Wayfound offer
 
 Sessions provide monitoring capabilities through [recordings.md](sessions/recordings.md "mention") of agent-user interactions.
 
-###
+### Evaluation Rubric
+
+For each agent, the AI Supervisor maintains an **evaluation rubric** — a concise grading guide it distills from your guidelines and from the feedback you've given over time. The rubric captures how your organization interprets each guideline in practice, and every session is scored against it. This makes grading more consistent and increasingly tailored to your business. Learn more in [How the Supervisor Learns](supervisor/how-the-supervisor-learns.md).
+
+### Potential Issues
+
+**Potential issues** are recurring behaviors the AI Supervisor notices that aren't yet covered by any of your guidelines. You can promote a potential issue to a new guideline, confirm it as expected behavior, or dismiss it as a false positive. See [Potential Issues](supervisor/potential-issues.md).
+
+### Open Questions
+
+When the AI Supervisor is uncertain how to judge a behavior, it raises an **open question** for your team rather than guessing. Your answer teaches the Supervisor and refines how it evaluates future sessions. See [Open Questions](supervisor/open-questions.md).

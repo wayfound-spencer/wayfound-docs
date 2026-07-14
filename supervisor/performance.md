@@ -12,7 +12,7 @@ The Performance tab provides insights for all agents in the organization with at
 
 The AI Supervisor evaluates the performance of your agents by reading and rating its interactions with users. The overall results are displayed on the Performance tab to the right of each agent's name. Possible outcomes include:
 
-<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.16.46 AM.png" alt="" data-size="line">**Hot to go!:** The agent is meeting expectations in its interactions. However, the AI Supervisor can still raise potential issues and provide suggestions for improvement.
+<img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.16.46 AM.png" alt="" data-size="line">**Good to go:** The agent is meeting expectations in its interactions. However, the AI Supervisor can still raise potential issues and provide suggestions for improvement.
 
 <img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.22.03 AM.png" alt="" data-size="line">**Needs review:** The agent's performance is satisfactory, but there are areas that require closer attention and potential improvement. The AI Supervisor will flag an agent as "Needs review" when any of the following are triggered:
 
@@ -56,6 +56,8 @@ The AI Supervisor assesses the performance of each agent according to the custom
 
 Users can provide feedback to improve the AI Supervisor's application of agent guidelines by opening a session containing a guideline violation. See [user-feedback.md](../user-feedback.md "mention") for more information.
 
+The Wayfound Supervisor scores each session against your guidelines using an **evaluation rubric** it maintains for the agent — a grading guide that reflects how your organization has learned to apply each guideline. When you give feedback on a violation, the Supervisor folds it into that rubric so future scoring matches your intent. See [How the Supervisor Learns](how-the-supervisor-learns.md).
+
 ### **Action Failures:**
 
 The AI Supervisor monitors your agents' action calls and calculates their success rates. Click the overall summary of action failures to open a more detailed view of failure rates by action. Each action links to sessions where that action was called.&#x20;
@@ -68,11 +70,15 @@ For each example session, click <img src="../.gitbook/assets/Screenshot 2024-12-
 
 ### **Potential issues:**
 
-As part of its review, the AI Supervisor identifies potential issues in the agent's interactions with users. These issues may concern the agent's behaviors or the overall outcome of its interactions. The supervisor includes references to specific recordings that demonstrate these issues. Clicking on a reference opens it on the right side of the page:
+As part of its review, the Wayfound Supervisor identifies **potential issues** — recurring behaviors or outcomes that stand out but aren't yet covered by any of your guidelines. Each potential issue includes a severity, the Supervisor's confidence, and references to the specific sessions that demonstrate it. Click a reference to open the session on the right, with its status, an explanation, per‑interaction suggestions, and the transcript.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-11-18 at 11.56.39 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+Potential issues are yours to triage. For each one you can:
 
-As shown, each recording is also given a status, an explanation of that status, and suggestions for improvement based on the individual interaction. Below the suggestions is the transcript itself.
+* **Promote to a guideline** — turn the pattern into a rule the Supervisor enforces going forward.
+* **Confirm as expected** — tell the Supervisor this behavior is intended; it folds the decision into how it evaluates the agent and stops flagging it.
+* **Dismiss** — mark it a false positive. The Supervisor won't re‑raise it unless the evidence grows substantially.
+
+Triaging potential issues teaches the Supervisor and sharpens future assessments. See Potential Issues for the full workflow.
 
 ### Follow-Up Analysis
 

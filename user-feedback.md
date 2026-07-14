@@ -1,5 +1,15 @@
 # User Feedback
 
+### Teach the Supervisor
+
+From a session transcript — and from the agent's Performance view — you can **Teach the Supervisor** to correct or reinforce its judgment:
+
+* **Correct a verdict** — e.g., "this wasn't actually a guideline violation," or "you missed one here."
+* **Reinforce a behavior** — tell the Supervisor a response was exactly right so it encourages more of it.
+* **Answer an open question** — resolve a case the Supervisor flagged as ambiguous.
+
+Every piece of feedback is folded into the agent's evidence memos and evaluation rubric, so the Supervisor applies your intent to _future_ sessions automatically. Feedback compounds: the more you teach it, the more closely its grading matches how your team would judge the same interactions. See [How the Supervisor Learns](supervisor/how-the-supervisor-learns.md).
+
 When evaluating agent performance, the AI Supervisor follows the [guidelines.md](agents/guidelines.md "mention") set for each agent. The AI Supervisor may not always interpret the guidelines in ways that users anticipate when writing them. In cases such as this, Wayfound allows users to provide CLHF (continuous learning through human feedback) to the AI Supervisor to refine how it applies a guideline moving forward.
 
 Feedback can be found when opening a recording of a session where the AI Supervisor identified a guideline violation. Sessions can be accessed directly in the [Sessions](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/sessions "mention") page or through links in the [performance.md](supervisor/performance.md "mention") page. Along with a transcript of the interaction, each sessions displays the AI Supervisor's review, including highlights of any potential guideline violations:

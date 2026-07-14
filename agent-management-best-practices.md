@@ -1,6 +1,6 @@
 # Agent Supervision Best Practices
 
-Unlike conventional software which follows deterministic rules and procedures, AI agents use pattern recognition and reasoning to achieve their assigned goals. Wheareas traditional software operates within strictly defined parameters and produces predictable but narrow results, AI agents use nondeterministic functions to operate in more complex and dynamic environments. As an AI agent interaction unfolds, an agent can continuously adapt based on user interactions and leverage natural language understanding to interpret requests in a way that mirrors human comprehension.
+Unlike conventional software which follows deterministic rules and procedures, AI agents use pattern recognition and reasoning to achieve their assigned goals. Whereas traditional software operates within strictly defined parameters and produces predictable but narrow results, AI agents use nondeterministic functions to operate in more complex and dynamic environments. As an AI agent interaction unfolds, an agent can continuously adapt based on user interactions and leverage natural language understanding to interpret requests in a way that mirrors human comprehension.
 
 While this nondeterministic nature of AI agents brings powerful flexibility, this approach to problem-solving introduces some unique management challenges. AI agents require continuous monitoring and improvement to ensure they remain aligned with your business goals and user expectations.
 
@@ -29,6 +29,12 @@ As with any AI agent, the key to success with Wayfound’s AI Supervisor is cont
 **Address Knowledge Gaps:** Prioritize knowledge gaps that appear frequently and update your agent's knowledge base in response to identified gaps. Review transcripts where knowledge gaps occur to understand the context.
 
 **Improve Tool Performance:** Monitor tool failure rates and patterns, optimize failing tools based on error messages and failed attempts, and consider alternative approaches for consistently problematic actions.
+
+**Answer Open Questions:** When the AI Supervisor raises an [open question](supervisor/open-questions.md), answer it. These are the moments where a small amount of human judgment most improves future scoring — the Supervisor applies your answer to every similar session afterward.
+
+**Triage Potential Issues:** Regularly review [potential issues](supervisor/potential-issues.md). Promote the ones you want enforced into guidelines, confirm the ones that are working as intended, and dismiss the noise. This is the fastest way to shape what the Supervisor watches for.
+
+**Teach from transcripts:** When you disagree with a verdict, don't just adjust guidelines — use [Teach the Supervisor](user-feedback.md#teach-the-supervisor) on the session itself. It's the most direct way to correct interpretation, and it compounds over time.
 
 ### Measuring Progress
 

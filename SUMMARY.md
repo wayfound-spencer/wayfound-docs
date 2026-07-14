@@ -11,6 +11,9 @@
 * [Global Guidelines](supervisor/global-guidelines.md)
 * [Reports](supervisor/reports.md)
 * [Report Sharing](supervisor/report-sharing.md)
+* [How the Supervisor Learns](supervisor/how-the-supervisor-learns.md)
+* [Potential Issues](supervisor/potential-issues.md)
+* [Open Questions](supervisor/open-questions.md)
 
 ***
 
