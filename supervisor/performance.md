@@ -1,6 +1,6 @@
 # Performance
 
-The Performance tab provides a comprehensive overview of your individual agents' performance, offering insights and areas for improvement. It is powered by Wayfound's AI Supervisor, which continually monitors your active agents. The Wayfound AI Supervisor is powered by state-of-the-art LLMs. It currently uses OpenAI's gpt-5 model to analyze agent performance.
+The Performance tab provides a comprehensive overview of your individual agents' performance, offering insights and areas for improvement. It is powered by Wayfound's AI Supervisor, which continually monitors your active agents. The Wayfound AI Supervisor is powered by state-of-the-art LLMs.
 
 This view is designed to help you quickly understand the strengths and weaknesses of your agents and identify directions for improvement.&#x20;
 

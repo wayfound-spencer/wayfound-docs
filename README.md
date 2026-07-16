@@ -10,7 +10,7 @@ Wayfound is the world's first AI Agent Supervisor platform. Our platform helps b
 
 Wayfound is organized into five tabs:
 
-[Supervisor](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/supervisor) provides a global view of your network of Agents, near real-time Agent performance reviews, access to guidelines that apply across all Agents, and an interface for facilitating meetings between agents&#x20;
+[**Supervisor**](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/supervisor) provides a global view of your network of Agents, near real-time Agent performance reviews, access to guidelines that apply across all Agents, and an interface for facilitating meetings between agents&#x20;
 
 [**Agents**](https://app.gitbook.com/s/ifg8pcYnTcaO17HuTu4I/agents) allows you to connect and view agents
 

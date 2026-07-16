@@ -12,7 +12,7 @@ Wayfound supports specialized agents powered by the latest large language models
 
 ### Agent Networks
 
-The best agents are specialized to perform a specific task. Agent networks leverage multiple specialized agents that communicate and collaborate to handle complex tasks. Each agent focuses on its specific expertise while working within the broader network.
+The best agents are specialized to perform a specific task. Agent networks leverage multiple specialized agents that communicate and collaborate to handle complex tasks. Each agent focuses on its specific expertise while working within the broader network. See [Supervise Multi-Agent Systems](applications/supervise-multi-agent-systems.md)
 
 ### AI Supervisor
 

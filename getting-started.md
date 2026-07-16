@@ -47,5 +47,5 @@ Once your agents are running and managed, you can leverage Wayfound's full capab
 
 1. **Interaction-level analysis**: Use Recordings to review specific agent interactions.
 2. **Engagement tracking**: Monitor Link clicks during agent interactions.
-3. **Cross-agent collaboration**: Set up agent meetings to produce organizational insights.
+3. **Reports**: Set up agent reports to produce organizational insights.
 
