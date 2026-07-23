@@ -64,6 +64,7 @@
 * [User Management](settings/user-management.md)
 * [Okta Integration](settings/okta-integration.md)
 
-***
+## Implementation
 
-* [API](api.md)
+* [API](implementation/api/README.md)
+  * [Inline Supervision](implementation/api/inline-supervision.md)

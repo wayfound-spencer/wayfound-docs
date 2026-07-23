@@ -6,8 +6,8 @@ Wayfound offers APIs to connect your agents to the platform. You can generate an
 
 For more information about connecting agents to Wayfound in order to leverage the API see here:
 
-{% content-ref url="agents/connecting-agents.md" %}
-[connecting-agents.md](agents/connecting-agents.md)
+{% content-ref url="../../agents/connecting-agents.md" %}
+[connecting-agents.md](../../agents/connecting-agents.md)
 {% endcontent-ref %}
 
 ## Creating and Configuring Supervisor Agents
