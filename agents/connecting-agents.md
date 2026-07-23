@@ -22,7 +22,7 @@ You can install the Wayfound SDK using pip:
 pip install wayfound
 ```
 
-To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID. The Agent ID is available on the agent's Connection page. API keys can be obtained by users with admin permissions from the [API page](../implementation/api/).
+To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID. The Agent ID is available on the agent's Connection page. API keys can be obtained by users with admin permissions from the [API page](../implementation/api.md).
 
 The SDK provides methods to record new messages, update existing recordings, and add details like user ratings and handoffs. For example:
 
@@ -63,7 +63,7 @@ You can install the Wayfound SDK using npm:
 npm install wayfound
 ```
 
-To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID. The Agent ID is available on the agent's Connection page. API keys can be obtained by users with admin permissions from the [API page](../implementation/api/).
+To use the Wayfound Manager SDK, you'll need a Wayfound API key and an agent ID. The Agent ID is available on the agent's Connection page. API keys can be obtained by users with admin permissions from the [API page](../implementation/api.md).
 
 The SDK provides methods to record new messages, update existing recordings, and add details like user ratings and handoffs. For example:
 

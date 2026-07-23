@@ -66,5 +66,5 @@
 
 ## Implementation
 
-* [API](implementation/api/README.md)
-  * [Inline Supervision](implementation/api/inline-supervision.md)
+* [Inline Supervision](implementation/inline-supervision.md)
+* [API](implementation/api.md)

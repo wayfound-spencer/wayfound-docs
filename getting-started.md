@@ -15,7 +15,7 @@ Before building your agent, carefully plan its purpose and requirements:
    1. The **Name** is how the supervisor is referenced throughout Wayfound
    2. The **Role** describes the context in which the agent is running in your product such as how it interacts with users or describing where it sits within an agent workflow.  The Wayfound Supervisor uses this context as part of the session analysis process.
    3. The **Goal** describes the objective of the agent for each session run.  This should be a verifiable goal.  It is important that the goal has a clear success criteria that can be evaluated with the session data being provided to Wayfound.
-2. **Create an API Key**. Users with admin status can create an API key on the [api](implementation/api/ "mention") page.
+2. **Create an API Key**. Users with admin status can create an API key on the [api.md](implementation/api.md "mention") page.
 3. **Integrate your agent**: Add Wayfound to your external agent using the [connecting-agents.md](agents/connecting-agents.md "mention")
 
 ## Agent Success Criteria
