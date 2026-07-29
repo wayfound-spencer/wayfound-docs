@@ -2,8 +2,6 @@
 
 ## Connecting Any AI Gateway via OpenTelemetry
 
-> **Status:** Preview — this integration is under active development and not yet generally available.
-
 If your LLM traffic flows through an AI gateway, the gateway can be your entire Wayfound integration — no SDK, no application code changes. Any gateway that lets you configure its OpenTelemetry export (an OTLP/HTTP endpoint plus request headers) can send its traces to Wayfound, and sessions appear in your dashboard with full Supervisor analysis.
 
 **Using LiteLLM?** It has first-class support — automatic virtual-key discovery, one-click supervision, and traffic backfill. Follow Supervising Agents Through Your LiteLLM Gateway instead. This page is the generic contract for every other OTel-capable gateway, and for applications exporting their own traces.

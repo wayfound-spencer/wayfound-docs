@@ -2,8 +2,6 @@
 
 ## Supervising Agents Through Your LiteLLM Gateway
 
-> **Status:** Preview — this integration is under active development and not yet generally available.
-
 If your LLM traffic flows through a LiteLLM proxy, the gateway can be your entire Wayfound integration — no SDK, no application code changes. Point the gateway's OpenTelemetry callback at Wayfound and every virtual key that sends traffic appears in **Settings → AI Gateway**, with its alias, team, and traffic stats. Flip **Supervise** on a key and Wayfound creates its Supervisor, connects it, and backfills roughly the last week of that key's traffic — analyzed sessions appear within minutes.
 
 ### Prerequisites
