@@ -68,3 +68,8 @@
 
 * [Inline Supervision](implementation/inline-supervision.md)
 * [API](implementation/api.md)
+
+## AI Gateways
+
+* [Connecting LiteLLM Gateway](ai-gateways/connecting-litellm-gateway.md)
+* [Connecting OpenTelemetry Exporter](ai-gateways/connecting-opentelemetry-exporter.md)
