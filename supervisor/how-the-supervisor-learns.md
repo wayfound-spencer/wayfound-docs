@@ -40,7 +40,7 @@ Each of these updates the evidence memos, which re‑distill the rubric, which c
 
 Everything the Supervisor uses to judge your agents is visible to organization admins in the **Memos** tab: the current evaluation rubric, the evidence memos behind it, and a version history that lets you trace any change back to the feedback and observations that caused it.
 
-\[screenshot: rubric version history / diff view]
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### Availability
 
